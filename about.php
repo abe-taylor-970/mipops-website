@@ -10,6 +10,7 @@
 
 		<section class="container">
       <?php include "_/php/header.php"; ?>
+      <?php include "_/php/snippet-carousel.php"; ?>
       <?php include "_/php/footer.php"; ?>
     </section><!-- container -->
 

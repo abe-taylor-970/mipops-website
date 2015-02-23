@@ -1,12 +1,6 @@
 <div class="content row">
   <div class="col-lg-12">
     <header class="clearfix">
-
-      <section id="branding">
-        <a href="index.php"><img src="img/transparentMIPOPSlogoCropped.gif" alt="MIPOPS website. Click for home." class="img-responsive"></a>
-      </section><!-- branding -->
-
-
       <nav class="navbar navbar-default navbar-fixed-top navbar-inverse">
         <div class="navbar-header">
           <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#collapse">

@@ -1,6 +1,7 @@
 <div class="row" id="members_content">
   <div class="col-xs-12 col-md-4">
-    <p>Members to check out</p>
+    <p>Members to</p>
+    <p>check out</p>
   </div>
   <div class="col-xs-6 col-md-2">
     <a href="#" class="thumbnail">

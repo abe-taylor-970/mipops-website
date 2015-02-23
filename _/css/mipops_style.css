@@ -1,10 +1,15 @@
 body {
-  background-color: black;
+  background-color: brown;
   padding-top: 70px; 
 }
 
 footer {
-  background-color: linen;
+  color: white;
+}
+
+.row {
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
 
 .container {
@@ -17,7 +22,12 @@ footer {
 
 #members_content {
   background-color: orange;
- font-size: 2.5em;
+  color: black;
+  font-size: 3em;
+}
+
+#top_bar {
+  font-size: 3em;
 }
 
 #boxes_content {
