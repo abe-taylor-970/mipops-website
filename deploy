@@ -1,0 +1,6 @@
+#!/bin/bash
+# My first script
+
+echo "Deploying..."
+sudo rm -r /opt/lampp/htdocs
+sudo cp -a . /opt/lampp/htdocs
