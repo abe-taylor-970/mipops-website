@@ -1,20 +1,22 @@
 <div class="row" id="video_blog_content">
-  <div class="col-lg-6 col-xs-6">
-    <h1> Rachel’s Blog </h1>
-    <p>worked diligently to understand the methods and
-standards of other nationally-recognized documentary
-editing projects, as well as engaging actively in
-the growing field of digital humanities. I did so with
-an eye to developing a project that not only met
-the highest standards of the NHPRC and the Association
-for Documentary Editing, but would make
-significant contributions to how documentary editions
-are conceptualized and implemented in the
-digital (read more….)
-    </p>
+  <div class="col-lg-6 col-xs-12">
+    <h1>Rachel’s Blog </h1>
+    <?php
+      $request_url = "http://mipops.tumblr.com/api/read?type=post&start=0&num=1";
+      $xml = simplexml_load_file($request_url);
+      $title = $xml->posts->post->{'regular-title'};
+      $post = $xml->posts->post->{'regular-body'};
+      $link = $xml->posts->post['url'];
+      $small_post = substr($post,0,320);
+      echo '<h1>'.$title.'</h1>';
+      echo '<p>'.$small_post.'</p>';
+      echo "…";
+      echo "</br><a target=frame2 href='".$link."'>Read More</a>"; 
+    ?>
   </div>
-  <div class="col-lg-6 col-xs-6">
-    <iframe src="https://archive.org/embed/GhostsTrailer1" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+  <div class="col-lg-6 col-xs-12">
+
+    <iframe style="border: 4px solid #000000;" src="https://archive.org/embed/GhostsTrailer1" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
   </div>
 </div>
 

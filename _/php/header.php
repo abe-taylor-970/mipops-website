@@ -16,7 +16,14 @@
             <li><a href="about.php">About</a></li>
             <li><a href="members.php">Member Info</a></li>
             <li><a href="contact.php">Contact</a></li>  
-            <li><a href="resources.php">Resources</a></li>
+            <li class="dropdown"><a href="#" data-toggle="dropdown">Resources<span class="caret"></span></a>
+                    	<ul class="dropdown-menu">
+                        	<li><a href="#">Internet Archives</a></li>
+                            <li><a href="#">Why Digital Preservation?</a></li>
+                            <li><a href="#">Technical Standards</a></li>
+                            <li><a href="#">Research</a></li>
+                        </ul>                    
+                    </li>
           </ul> 
         </div>
       </nav> 

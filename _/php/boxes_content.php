@@ -3,18 +3,16 @@
     <div class="col-lg-3 col-xs-6">
       <div class="thumbnail">
             <div class="caption">
-                <h4>Members</h4>
-                <p>Information on membership, current members</p>
-                <p><a href="members.php">Go to member page</a></p>
+                <h4>Information for archives and libraries</h4>
+                <p><a href="faqs.php">FAQS</a></p>
             </div>
         </div>
     </div>
     <div class="col-lg-3 col-xs-6">
          <div class="thumbnail">
             <div class="caption">
-                <h4>About us</h4>
-                <p>Information about MIPOPS</p>
-                <p><a href="about.php">Go to about us page</a></p>
+                <h4>Visiting Us</h4>
+                <p><a href="visit.php">What to expect when you visit us</a></p>
           </div>
         </div>
     </div>
@@ -22,18 +20,17 @@
     <div class="col-lg-3 col-xs-6">
       <div class="thumbnail">
             <div class="caption">
-                <h4>Contact</h4>
-                <p>Contact MIPOPS</p>
-                <p><a href="contact.php"> Go to contact us page</a></p>
+                <h4>About MIPoPS</h4>
+                <p><a href="members.php">Members</a></p>
+                <p><a href="about.php">About us</a></p>
             </div>
         </div>
     </div>
     <div class="col-lg-3 col-xs-6">
       <div class="thumbnail">
             <div class="caption">
-            <h4>Resources</h4>
-            <p>Check our our resources page</p>
-            <p><a href="resources.php"> Go to resources page</a></p>
+            <h4>Internet Archive content</h4>
+            <p>check out content on the internet archive from our members</p>
           </div>
         </div>
      </div>
