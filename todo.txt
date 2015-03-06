@@ -1,0 +1,8 @@
+1) white background around blog
+2) header has yellow background
+3) change logo to be white on transparent
+4) slowinbg down carousel
+5) align everything going down page on edges
+6) 4 boxes same vertical height
+7) make Rachel's blog imbed work with video or images
+

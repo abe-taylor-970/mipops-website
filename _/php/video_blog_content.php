@@ -11,12 +11,12 @@
       echo '<h1>'.$title.'</h1>';
       echo '<p>'.$small_post.'</p>';
       echo "…";
-      echo "</br><a target=frame2 href='".$link."'>Read More</a>"; 
+      echo "</br><a target=frame2 href='http://mipops.tumblr.com/'>Read More</a>"; 
     ?>
   </div>
   <div class="col-lg-6 col-xs-12">
 
-    <iframe style="border: 4px solid #000000;" src="https://archive.org/embed/GhostsTrailer1" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+    <iframe style="border: 4px solid #000000;" src="https://archive.org/embed/GhostsTrailer1" width="320" height="240" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
   </div>
 </div>
 
