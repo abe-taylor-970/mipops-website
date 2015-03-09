@@ -5,7 +5,7 @@
   </div>
   <div class="col-xs-6 col-md-2">
     <a href="#" class="thumbnail">
-      <img src="img/SirMixAlot.jpg" alt="member 1">
+      <img src="img/SirMixAlot2.jpg" alt="member 1">
     </a>
   </div>
   <div class="col-xs-6 col-md-2">

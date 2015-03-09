@@ -16,8 +16,10 @@ footer {
   color: white;
 }
 
-.thumbnail {
+#boxes_content .thumbnail {
   background-color: orange;
+  min-height: 150px;
+  height: 150px;  
 }
 
 #members_content {
@@ -27,8 +29,15 @@ footer {
 }
 
 #top_bar {
+  background-color: chocolate;
   font-size: 3em;
 }
 
-#boxes_content {
+#blog {
+  background-color: orange;
+  color: black;
+}
+
+#video {
+  background-color: orange;
 }

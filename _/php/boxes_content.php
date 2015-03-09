@@ -2,11 +2,11 @@
 <div class="row" id="boxes_content">
     <div class="col-lg-3 col-xs-6">
       <div class="thumbnail">
-            <div class="caption">
-                <h4>Information for archives and libraries</h4>
-                <p><a href="faqs.php">FAQS</a></p>
-            </div>
+        <div class="caption">
+          <h4>Information for archives and libraries</h4>
+          <p><a href="faqs.php">FAQS</a></p>
         </div>
+      </div>
     </div>
     <div class="col-lg-3 col-xs-6">
          <div class="thumbnail">
@@ -16,7 +16,7 @@
           </div>
         </div>
     </div>
-    <div class="clearfix visible-md visible-xs"></div>
+    <div class="clearfix visible-xs"></div>
     <div class="col-lg-3 col-xs-6">
       <div class="thumbnail">
             <div class="caption">
