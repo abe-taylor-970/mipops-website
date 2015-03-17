@@ -35,26 +35,25 @@ footer {
 }
 
 #top_bar {
-  background-color: ;
+  background-color: #293E6A;
   font-size: 3em;
 }
 
 #top_logo {
   margin-top: 40px;
 }
-#blog {
-  border: 15px solid #293E6A;
-  border-radius: 4px; 
-  background-color: white;
-  color: black;
-}
 
+#blog {
+  background-color: #293E6A;
+  border: 1px solid #ddd;
+  border-radius: 4px; 
+  height: 300px;
+}
 
 #video {
   background-color: #293E6A;
   border: 1px solid #ddd;
   border-radius: 4px; 
+  height: 300px;
 }
 
-#video .iframe {
-}

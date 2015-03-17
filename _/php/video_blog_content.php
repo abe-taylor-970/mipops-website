@@ -1,6 +1,6 @@
 <div class="row" id="video_blog_content">
   <div class="col-lg-6 col-xs-12" id="blog">
-    <div id="inside-blog">
+    <div class="col-xs-12" id="inside-blog">
       <h1>Rachel’s Blog </h1>
       <?php
         $request_url = "http://mipops.tumblr.com/api/read?type=post&start=0&num=1";
