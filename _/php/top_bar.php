@@ -1,5 +1,5 @@
 <div class="row" id="top_bar">
-    <div class="col-lg-4 col-md-6">
+    <div class="col-lg-4 col-md-6 col-sm-12">
       <?php include "_/php/top_carousel.php"; ?>
     </div><!-- Carousel -->
     <div class="col-lg-4 col-md-6" id="top_name">
@@ -8,6 +8,6 @@
       </div>
     </div>
     <div class="col-lg-4 col-md-12"id="top_logo">
-      <a href="index.php"><img src="img/transparentMIPOPSlogoCropped.gif" alt="MIPOPS website. Click for home." class="img-responsive"></a>
+      <a href="index.php"><img src="img/transparentMIPOPSlogoCroppedWhite2.gif" alt="MIPOPS website. Click for home." class="img-responsive"></a>
     </div>
 </div>

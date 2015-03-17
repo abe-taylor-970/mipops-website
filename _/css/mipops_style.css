@@ -1,5 +1,6 @@
 body {
-  background-color: brown;
+  background-color: #3B5998;
+  color: white;
   padding-top: 70px; 
 }
 
@@ -17,27 +18,43 @@ footer {
 }
 
 #boxes_content .thumbnail {
-  background-color: orange;
+  background-color: #293E6A;
   min-height: 150px;
   height: 150px;  
 }
 
+#boxes_content .thumbnail .caption {
+  color: white;
+} 
 #members_content {
-  background-color: orange;
-  color: black;
+  background-color: #293E6A;
+  border: 1px solid #ddd;
+  border-radius: 4px; 
+  color: white;
   font-size: 3em;
 }
 
 #top_bar {
-  background-color: chocolate;
+  background-color: ;
   font-size: 3em;
 }
 
+#top_logo {
+  margin-top: 40px;
+}
 #blog {
-  background-color: orange;
+  border: 15px solid #293E6A;
+  border-radius: 4px; 
+  background-color: white;
   color: black;
 }
 
+
 #video {
-  background-color: orange;
+  background-color: #293E6A;
+  border: 1px solid #ddd;
+  border-radius: 4px; 
+}
+
+#video .iframe {
 }
