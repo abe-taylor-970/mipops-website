@@ -1,0 +1,69 @@
+/* rs collab scheme */
+body {
+  background-color: #3B5998; /* regular blue */
+  color: white;
+  padding-top: 70px; 
+}
+
+#boxes_content .thumbnail, #top_bar, #video, #members_content {
+  background-color: #293E6A;
+}
+
+#blog {
+  background-color: #223358;
+}
+
+footer {
+  color: white;
+}
+
+.row {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.container {
+  color: white;
+}
+
+#boxes_content .thumbnail {
+  min-height: 150px;
+  height: 150px;  
+}
+
+#boxes_content .thumbnail .caption {
+  color: white;
+} 
+
+#top_bar {
+  font-size: 6em;
+}
+
+#members_content {
+  font-size: 3em;
+}
+
+#top_logo {
+  margin-top: 40px;
+}
+
+#blog, #video, #members_content {
+  border: 1px solid #ddd;
+  border-radius: 4px; 
+}
+
+#blog, #video {
+  height: 300px;
+}
+
+#video {
+  padding-top: 20px;
+}
+
+#inside-blog h1, #inside-blog h4 {
+  color: #77BA9B; /* greenish */ 
+}
+
+#inside-blog p {
+  color: #B6A754; /*yellow*/
+}
