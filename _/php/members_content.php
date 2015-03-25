@@ -1,8 +1,8 @@
 <div class="row" id="members_content">
   <div class="col-xs-12 col-md-4">
     <div class="col-lg-10 col-lg-offset-2">
-      <p>Members to</p>
-      <p>check out</p>
+      <p>Participating</p>
+      <p>Organizations</p>
     </div>
   </div><!-- text column -->
   <div class="col-xs-6 col-md-2">

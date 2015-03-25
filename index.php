@@ -10,8 +10,10 @@
 <body>
   <div class="container-fluid">
     <?php include "_/php/header.php"; ?>
-    <?php include "_/php/top_bar.php"; ?> 
-  </div>
+    <div class="container">
+      <?php include "_/php/top_bar.php"; ?> 
+    </div>
+  </div><!-- container-fluid-->
   <div class="container">
     <p> Moving Image Preservation of Puget Sound is a non-profit 501-3© corporation formed to help preserve our cultural
       heritage by assisting archives, libraries, and other organizations and individuals with conversion of analog video re-

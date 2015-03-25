@@ -2,10 +2,10 @@
 body {
   background-color: #3B5998; /* regular blue */
   color: white;
-  padding-top: 70px; 
+  padding-top: 50px; 
 }
 
-#boxes_content .thumbnail, #top_bar, #video, #members_content {
+#boxes_content .thumbnail, #top_bar, #video, #members_content, .container-fluid {
   background-color: #293E6A;
 }
 
@@ -18,16 +18,19 @@ footer {
 }
 
 .row {
-  padding-top: 20px;
   padding-bottom: 20px;
 }
+
 
 .container {
   color: white;
 }
 
+#members_content .col-md-2, #members_content .col-md-4 {
+  margin-top: 30px; 
+}
+
 #boxes_content .thumbnail {
-  min-height: 150px;
   height: 150px;  
 }
 
@@ -35,11 +38,8 @@ footer {
   color: white;
 } 
 
-#top_bar {
-  font-size: 6em;
-}
 
-#members_content {
+#members_content, #top_bar {
   font-size: 3em;
 }
 
