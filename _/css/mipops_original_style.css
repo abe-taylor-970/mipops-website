@@ -14,13 +14,20 @@ body {
 }
 
 footer {
+  padding-top: 20px;
   color: white;
+  background-color: black;
+  font-size: 1em;
+  text-align: center;
 }
 
 .row {
   padding-bottom: 20px;
 }
 
+.spacing {
+  height:30px;
+}
 
 .container {
   color: white;
@@ -39,11 +46,16 @@ footer {
 } 
 
 
-#members_content, #top_bar {
+#members_content {
   font-size: 3em;
 }
 
-#top_logo {
+#top_bar {
+  font-size: 4.2em;
+  text-align: center;
+}
+
+#top_logo, #top_name {
   margin-top: 40px;
 }
 

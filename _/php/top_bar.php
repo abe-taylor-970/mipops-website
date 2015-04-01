@@ -1,8 +1,6 @@
 <div class="row" id="top_bar">
     <div class="col-lg-4 col-md-6 col-lg-push-4" id="top_name">
-      <div class="col-lg-10 col-lg-offset-2">
-        <p>Moving Image Preservation of Puget Sound</p>
-      </div>
+      <p>Moving Image Preservation of Puget Sound</p>
     </div>
     <div class="col-lg-4 col-md-6 col-lg-push-4"id="top_logo">
       <a href="index.php"><img src="img/transparentMIPOPSlogoCroppedWhite2.gif" alt="MIPOPS website. Click for home." class="img-responsive"></a>

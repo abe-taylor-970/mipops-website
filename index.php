@@ -10,15 +10,11 @@
 <body>
   <div class="container-fluid">
     <?php include "_/php/header.php"; ?>
-    <div class="container">
-      <?php include "_/php/top_bar.php"; ?> 
-    </div>
+    <?php include "_/php/top_bar.php"; ?> 
   </div><!-- container-fluid-->
-  <div class="container">
-    <p> Moving Image Preservation of Puget Sound is a non-profit 501-3© corporation formed to help preserve our cultural
-      heritage by assisting archives, libraries, and other organizations and individuals with conversion of analog video re-
-      cordings to digital format according to archival best practices.</p>
 
+  <div class="container">
+    <p>Moving Image Preservation of Puget Sound is a non-profit 501-3© corporation formed to help preserve our cultural heritage by assisting archives, libraries, and other organizations and individuals with conversion of analog video recordings to digital format according to archival best practices.</p>
     <?php include "_/php/boxes_content.php"; ?> 
     <?php include "_/php/video_blog_content.php"; ?>
     <?php include "_/php/members_content.php"; ?>
