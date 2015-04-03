@@ -9,11 +9,11 @@
 	</ol><!-- carousel-indicators -->
 
 	<div class="carousel-inner" role="listbox">
-		<div class="active item"><img src="img/vhs.jpg" alt="vhs"></div>
-		<div class="item"><img src="img/female_construction.jpg" alt="female construction"></div>
-		<div class="item"><img src="img/hands_paper_device.jpg" alt="hands paper device"></div>
-		<div class="item"><img src="img/pink_hair.jpg" alt="pink_hair"></div>
-    <div class="item"><img src="img/devices_and_cables.jpg" alt="devices and cables"></div>
+		<div class="active item"><img src="img/vhs.jpg" alt="vhs" class="img-responsive"></div>
+		<div class="item"><img src="img/female_construction_cropped.jpg" alt="female construction" class="img-responsive"></div>
+		<div class="item"><img src="img/hands_paper_device.jpg" alt="hands paper device" class="img-responsive"></div>
+		<div class="item"><img src="img/pink_hair_cropped.jpg" alt="pink_hair" class="img-responsive"></div>
+    <div class="item"><img src="img/devices_and_cables_cropped.jpg" alt="devices and cables" class="img-responsive"></div>
 	</div><!-- carousel-inner -->
 
 	<a href="#top_carousel" class="left carousel-control" role="button" data-slide="prev">

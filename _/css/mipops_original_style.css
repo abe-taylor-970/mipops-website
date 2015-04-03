@@ -38,7 +38,7 @@ footer {
 }
 
 #boxes_content .thumbnail {
-  height: 150px;  
+  height: 250px;  
 }
 
 #boxes_content .thumbnail .caption {
@@ -48,6 +48,7 @@ footer {
 
 #members_content {
   font-size: 3em;
+  text-align: center;
 }
 
 #top_bar {

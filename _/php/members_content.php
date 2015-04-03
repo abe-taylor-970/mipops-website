@@ -1,28 +1,26 @@
 <div class="row" id="members_content">
   <div class="col-xs-12 col-md-4">
-    <div class="col-lg-10 col-lg-offset-2">
-      <p>Participating</p>
-      <p>Organizations</p>
-    </div>
+    <p>Similar</p>
+    <p>Organizations</p>
   </div><!-- text column -->
   <div class="col-xs-6 col-md-2">
-    <a href="#" class="thumbnail">
-      <img src="img/pink_hair.jpg" alt="member 1">
+    <a href="http://calpreservation.org/projects/audiovisual-preservation/" class="thumbnail">
+      <img src="img/CAVP_color.jpg" alt="California Audiovisual Preservation" class="img-responsive">
     </a>
   </div>
   <div class="col-xs-6 col-md-2">
-    <a href="#" class="thumbnail">
-      <img src="img/devices_and_cables.jpg" alt="member 2">
+    <a href="http://uluulu.hawaii.edu/" class="thumbnail">
+      <img src="img/uluulu-logo.png" alt="uluulu" class="img-responsive">
     </a>
   </div>
   <div class="col-xs-6 col-md-2">
-    <a href="#" class="thumbnail">
-      <img src="img/female_construction.jpg" alt="member 3">
+    <a href="http://www.danceheritage.org/" class="thumbnail">
+      <img src="img/DHClogo3.png" alt="Dance Heritage" class="img-responsive">
     </a>
   </div>
   <div class="col-xs-6 col-md-2">
-    <a href="#" class="thumbnail">
-      <img src="img/hands_paper_device.jpg" alt="member 4">
+    <a href="http://www.newmuseum.org/exhibitions/view/xfr-stn" class="thumbnail">
+      <img src="img/xfr_logo.jpg" alt="New Museum XFR STN" class="img-responsive">
     </a>
   </div>
 </div>
