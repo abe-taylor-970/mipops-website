@@ -8,11 +8,10 @@
         $title = $xml->posts->post->{'regular-title'};
         $post = $xml->posts->post->{'regular-body'};
         $link = $xml->posts->post['url'];
-        $small_post = substr($post,0,320);
+        $small_post = substr($post,0,500);
         echo '<h4>'.$title.'</h4>';
-        echo '<p>'.$small_post.'</p>';
-        echo "…";
-        echo "</br><a target=frame2 href='http://mipops.tumblr.com/'>Read More</a>"; 
+        echo '<p>'.$small_post.'…'.'</p>';
+        echo "<a target=frame2 href='http://mipops.tumblr.com/'>Read More</a>"; 
       ?>
     </div><!-- inside blog -->
   </div><!-- blog-->
