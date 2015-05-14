@@ -25,7 +25,6 @@
     </div>
     <?php include "_/php/footer.php"; ?>
   </div> <!-- end container -->
-
   <?php include "_/php/javascript.php"; ?>
 </body>
 </html>

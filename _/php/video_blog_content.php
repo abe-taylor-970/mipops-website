@@ -18,8 +18,7 @@
   </div><!-- blog-->
   <div class="col-lg-5 col-lg-offset-1 col-xs-12" id="video">
     <div class="col-lg-10 col-lg-offset-2">
-        <iframe src="https://archive.org/embed/GhostsTrailer1" width="320" height="240" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-      <p>Featured Member Video: ghosts</p>
+<iframe src="https://player.vimeo.com/video/112958248" width="320" height="240" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/112958248">Kingdome Animated Logo</a> from <a href="https://vimeo.com/kcarchives">King County Archives</a>.</p>
     </div>
   </div><!-- end video-->
 </div>

@@ -1,16 +1,12 @@
-/* rs collab scheme */
+/* NASA Prospect Style: green: #796E24 , off-white : #F9DF8D, yellow-orange: #EE9C21 , orange: #EA7D24 , brown-red #A34E24 */
 body {
-  background-color: #3B5998; /* regular blue */
-  color: white;
+  background-color: #EA7D24; /* orange */
+  color: #F9DF8D; /*off-white*/
   padding-top: 50px; 
 }
 
-#boxes_content .thumbnail, #top_bar, #video, #members_content, .container-fluid {
-  background-color: #293E6A;
-}
-
-#blog {
-  background-color: #223358;
+#boxes_content .thumbnail, #blog, #top_bar, #video, #members_content, .container-fluid {
+  background-color: #EE9C21; /*yellow-orange */
 }
 
 footer {
@@ -30,22 +26,23 @@ footer {
 }
 
 .container {
-  color: white;
+  color: #F9DF8D; /*off-white*/
 }
+
 #members_content .col-md-4 {
-  margin-top: 40px;
+  margin-top: 50px; 
 }
 #calpreservation {
-  margin-top: 20px;
-}
-#uluulu {
   margin-top: 50px;
 }
-#danceheritage {
+#uluulu {
   margin-top: 60px;
 }
+#danceheritage {
+  margin-top: 80px;
+}
 #xfr-stn {
-  margin-top: 40px;
+  margin-top: 60px;
 }
 
 #boxes_content .thumbnail {
@@ -58,9 +55,8 @@ footer {
 
 
 #members_content {
-  font-size: 2.3em;
+  font-size: 3em;
   text-align: center;
-  height: 200px;
 }
 
 #top_bar {

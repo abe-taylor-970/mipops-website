@@ -1,16 +1,17 @@
-/* rs collab scheme */
+/* earth oranges color scheme */
+/* orange: #E4762C, yellow: #ECAE34, light blue: #A4DAF4, red: #BC3A1C, dark blue: #0C224C */
 body {
-  background-color: #3B5998; /* regular blue */
-  color: white;
+  background-color: #F29D27;/*yellow1*/ 
   padding-top: 50px; 
 }
 
-#boxes_content .thumbnail, #top_bar, #video, #members_content, .container-fluid {
-  background-color: #293E6A;
+#boxes_content .thumbnail, #blog, #video, #members_content {
+  background-color: #FCED79; /*yellow2*/
 }
-
-#blog {
-  background-color: #223358;
+/*edit follows*/
+#top_bar, .container-fluid {
+  background-color: #DE2327; /*strong red not in scheme */
+  color: white;
 }
 
 footer {
@@ -29,23 +30,25 @@ footer {
   height:30px;
 }
 
-.container {
-  color: white;
+.container { 
+  color: #4D4DFF; /* lighter from straight blue */
 }
+
 #members_content .col-md-4 {
-  margin-top: 40px;
+  margin-top: 50px; 
+  color: blue;
 }
 #calpreservation {
-  margin-top: 20px;
-}
-#uluulu {
   margin-top: 50px;
 }
-#danceheritage {
+#uluulu {
   margin-top: 60px;
 }
+#danceheritage {
+  margin-top: 80px;
+}
 #xfr-stn {
-  margin-top: 40px;
+  margin-top: 60px;
 }
 
 #boxes_content .thumbnail {
@@ -53,14 +56,13 @@ footer {
 }
 
 #boxes_content .thumbnail .caption {
-  color: white;
+  color: blue;
 } 
 
 
 #members_content {
-  font-size: 2.3em;
+  font-size: 3em;
   text-align: center;
-  height: 200px;
 }
 
 #top_bar {
@@ -86,9 +88,9 @@ footer {
 }
 
 #inside-blog h1, #inside-blog h4 {
-  color: #77BA9B; /* greenish */ 
+  color: blue;
 }
 
 #inside-blog p {
-  color: #B6A754; /*yellow*/
+  color: #4D4DFF; /* lighter from straight blue */
 }
