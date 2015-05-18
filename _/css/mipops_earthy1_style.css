@@ -6,12 +6,17 @@ body {
 }
 
 #boxes_content .thumbnail, #blog, #video, #members_content {
-  background-color: #FCED79; /*yellow2*/
+  background-color: #EFE4B0; /*yellow2*/
 }
 /*edit follows*/
-#top_bar, .container-fluid {
+#top_container_fluid {
   background-color: #DE2327; /*strong red not in scheme */
   color: white;
+}
+
+#non_profit_text, #members_content {
+  color: #3333A2; /* lighter from dark blue */
+  background-color: #DBDACA; /*grey*/
 }
 
 footer {
@@ -30,25 +35,26 @@ footer {
   height:30px;
 }
 
-.container { 
-  color: #4D4DFF; /* lighter from straight blue */
+#main_container { 
+  color: #3333A2; /* lighter from dark blue */
+  background-color: #F29D27;/*yellow1*/ 
 }
 
 #members_content .col-md-4 {
-  margin-top: 50px; 
-  color: blue;
+  margin-top: 40px;
+  color: darkblue;
 }
 #calpreservation {
-  margin-top: 50px;
+  margin-top: 20px;
 }
 #uluulu {
-  margin-top: 60px;
+  margin-top: 50px;
 }
 #danceheritage {
-  margin-top: 80px;
+  margin-top: 60px;
 }
 #xfr-stn {
-  margin-top: 60px;
+  margin-top: 40px;
 }
 
 #boxes_content .thumbnail {
@@ -56,13 +62,13 @@ footer {
 }
 
 #boxes_content .thumbnail .caption {
-  color: blue;
+  color: darkblue;
 } 
 
-
 #members_content {
-  font-size: 3em;
+  font-size: 2.3em;
   text-align: center;
+  height: 200px;
 }
 
 #top_bar {
@@ -88,9 +94,9 @@ footer {
 }
 
 #inside-blog h1, #inside-blog h4 {
-  color: blue;
+  color: darkblue;
 }
 
 #inside-blog p {
-  color: #4D4DFF; /* lighter from straight blue */
+  color: #3333A2; /* lighter from dark blue */
 }
