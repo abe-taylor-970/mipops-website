@@ -10,25 +10,25 @@
 
 		<section class="container">
       <?php include "_/php/header.php"; ?>
-      <h1>MIPOPS FAQ</h1>
+      <h1>MIPoPS FAQ</h1>
 
-      <i>What does MIPOPS stand for?</i>  
+      <i>What does MIPoPS stand for?</i>  
       <p>Moving Image Preservation of Puget Sound</p>
 
-      <i>Can anyone digitize their videotape at MIPOPS?</i>
-      <p>MIPOPS is open to cultural institutions in the Puget Sound area with technical resources and staff able to preserve and provide access to digital files of moving images created at MIPOPS.</p>
+      <i>Can anyone digitize their videotape at MIPoPS?</i>
+      <p>MIPoPS is open to cultural institutions in the Puget Sound area with technical resources and staff able to preserve and provide access to digital files of moving images created at MIPoPS.</p>
 
-      <i>How much does MIPOPS cost?</i>
+      <i>How much does MIPoPS cost?</i>
       <p>There is a cost per item to digitize videotape. (Or whatever we come up with as the cost.)</p>
 
-      <i>Does MIPOPS do 8mm or 16mm film?</i>
-      <p>No, at this time MIPOPS is not able to transfer film to digital.</p>
+      <i>Does MIPoPS do 8mm or 16mm film?</i>
+      <p>No, at this time MIPoPS is not able to transfer film to digital.</p>
 
-      <i>What tape formats can MIPOPS digitize?</i>
-      <p>As of 2015, MIPOPS can digitize VHS, UMatic, BetaSP, DVCam, MiniDV and ?</p>
+      <i>What tape formats can MIPoPS digitize?</i>
+      <p>As of 2015, MIPoPS can digitize VHS, UMatic, BetaSP, DVCam, MiniDV and ?</p>
 
-      <i>Where is MIPOPS?</i>
-      <p>MIPOPS is currently located on Floor 3 of City Hall.</p>
+      <i>Where is MIPoPS?</i>
+      <p>MIPoPS is currently located on Floor 3 of City Hall.</p>
 
       <?php include "_/php/footer.php"; ?>
     </section><!-- container -->

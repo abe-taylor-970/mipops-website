@@ -1,16 +1,25 @@
-/* rs collab scheme */
+/* green_orange theme */
 body {
-  background-color: #3B5998; /* regular blue */
-  color: white;
+  background-color: #CC5120; /* orange */
   padding-top: 50px; 
 }
 
-#boxes_content .thumbnail, #top_bar, #video, #members_content, .container-fluid {
-  background-color: #293E6A;
+a {
+  color: #E2A048;
 }
 
-#blog {
-  background-color: #223358;
+#boxes_content .thumbnail, #blog, #video, #members_content {
+  background-color: #168C59; /* green */
+}
+/*edit follows*/
+#top_container_fluid {
+  background-color: #E27448; /*lighter orange */
+  color: white;
+}
+
+#non_profit_text {
+  color: white; 
+  background-color: #E27448; /*lighter orange */
 }
 
 footer {
@@ -25,21 +34,27 @@ footer {
   height:30px;
 }
 
-.container {
-  color: white;
+#main_container { 
+  color: white; 
+  background-color: #CC5120; /* orange */
 }
+
 #members_content_text {
   margin-top: 40px;
 }
+
 #calpreservation {
   margin-top: 20px;
 }
+
 #uluulu {
   margin-top: 50px;
 }
+
 #danceheritage {
   margin-top: 60px;
 }
+
 #xfr-stn {
   margin-top: 40px;
 }
@@ -68,15 +83,14 @@ footer {
   border-radius: 4px; 
 }
 
-
 #video {
   padding-top: 20px;
 }
 
 #inside-blog h2, #inside-blog h4 {
-  color: #77BA9B; /* greenish */ 
+  color: white;
 }
 
 #inside-blog p {
-  color: #B6A754; /*yellow*/
+  color: #005631; /* dark green */
 }

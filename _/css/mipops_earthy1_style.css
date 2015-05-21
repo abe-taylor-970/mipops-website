@@ -27,10 +27,6 @@ footer {
   text-align: center;
 }
 
-.row {
-  padding-bottom: 20px;
-}
-
 .spacing {
   height:30px;
 }
@@ -40,7 +36,7 @@ footer {
   background-color: #F29D27;/*yellow1*/ 
 }
 
-#members_content .col-md-4 {
+#members_content_text {
   margin-top: 40px;
   color: darkblue;
 }
@@ -55,10 +51,6 @@ footer {
 }
 #xfr-stn {
   margin-top: 40px;
-}
-
-#boxes_content .thumbnail {
-  height: 250px;  
 }
 
 #boxes_content .thumbnail .caption {
@@ -83,10 +75,6 @@ footer {
 #blog, #video, #members_content {
   border: 1px solid #ddd;
   border-radius: 4px; 
-}
-
-#blog, #video {
-  height: 300px;
 }
 
 #video {

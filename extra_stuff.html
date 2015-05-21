@@ -103,3 +103,14 @@
 #xfr-stn {
   margin-top: 40px;
 }
+<!-- javascript -->
+$( document ).ready(function() {
+    var heights = $(".blog-video").map(function() {
+        return $(this).height();
+    }).get(),
+   document.getElementById("debug").innerHTML = heights; 
+
+    maxHeight = Math.max.apply(null, heights);
+
+    $(".blog-video").height(maxHeight);
+});

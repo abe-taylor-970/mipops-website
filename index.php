@@ -2,7 +2,7 @@
 <html>
 <head>
   <meta charset="utf-8">
-  <title>MIPOPS website</title>
+  <title>MIPoPS website</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <?php include "_/php/bootstrap.php"; ?>
 </head>
@@ -22,6 +22,7 @@
     <div class="spacing"></div>
     <?php include "_/php/boxes_content.php"; ?> 
     <?php include "_/php/video_blog_content.php"; ?>
+    <div class="spacing"></div>
     <?php include "_/php/members_content.php"; ?>
     <div class="row">
       <div class="col-xs-12">
@@ -29,6 +30,7 @@
       </div>
     </div>
     <?php include "_/php/footer.php"; ?>
+    <p id="debug"></p>
   </div> <!-- end container -->
   <?php include "_/php/javascript.php"; ?>
 </body>

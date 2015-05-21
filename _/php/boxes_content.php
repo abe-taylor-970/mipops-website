@@ -1,7 +1,7 @@
 <div class="clearfix visible-xs visible-lg"></div>
 <div class="row" id="boxes_content">
   <div class="col-md-4 col-xs-12">
-    <div class="thumbnail">
+    <div class="thumbnail boxes">
       <div class="caption">
         <h2>For archives & libraries</h2>
         <p><a href="construction.php">Why Digital Preservation?</a></p>
@@ -12,7 +12,7 @@
     </div>
   </div>
   <div class="col-md-4 col-xs-12">
-    <div class="thumbnail">
+    <div class="thumbnail boxes">
       <div class="caption">
         <h2>Using our Services</h2>
         <p><a href="visit.php">What to expect when you visit us</a></p>
@@ -23,7 +23,7 @@
   </div>
   <div class="clearfix visible-xs"></div>
   <div class="col-md-4 col-xs-12">
-    <div class="thumbnail">
+    <div class="thumbnail boxes">
       <div class="caption">
           <h2>About MIPoPS</h2>
           <p><a href="construction.php">Members</a></p>
