@@ -1,25 +1,22 @@
-/* green_orange theme go to palleton.com and use #CC5120 as base color */
+/* green_orange theme go to palleton.com and use #A3421B as base color */
 body {
-  background-color: #CC5120; /* orange */
+  background-color: #A3421B; /* orange */
   padding-top: 50px; 
 }
 
-a {
-  color: #E2A048;
-}
 
 #boxes_content .thumbnail, #blog, #video, #members_content {
-  background-color: #168C59; /* green */
+  background-color: #4F9118; /* green */
 }
 /*edit follows*/
 #top_container_fluid {
-  background-color: #E27448; /*lighter orange */
+  background-color: #C45F37; /* light orange */
   color: white;
 }
 
 #non_profit_text {
-  color: #356991;  /*light blue*/
-  background-color: #E27448; /*lighter orange */
+  color: #174569; /* dark blue */
+  background-color: #C45F37; /* light orange */
 }
 
 footer {
@@ -35,8 +32,8 @@ footer {
 }
 
 #main_container { 
+  background-color: #A3421B; /* orange */
   color: white; 
-  background-color: #CC5120; /* orange */
 }
 
 #members_content_text {
@@ -59,8 +56,8 @@ footer {
   margin-top: 40px;
 }
 
-#boxes_content .thumbnail .caption {
-  color: white;
+#boxes_content .thumbnail .caption, #inside-blog h2, #inside-blog h4 {
+  color: white; 
 } 
 
 #members_content {
@@ -87,9 +84,6 @@ footer {
   padding-top: 20px;
 }
 
-#inside-blog h2, #inside-blog h4 {
-  color: white;
-}
 
 #inside-blog p {
   color: #1C5683; /*blue*/

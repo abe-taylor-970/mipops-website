@@ -30,7 +30,6 @@
       </div>
     </div>
     <?php include "_/php/footer.php"; ?>
-    <p id="debug"></p>
   </div> <!-- end container -->
   <?php include "_/php/javascript.php"; ?>
 </body>

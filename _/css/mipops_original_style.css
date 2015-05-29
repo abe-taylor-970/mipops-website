@@ -5,12 +5,8 @@ body {
   padding-top: 50px; 
 }
 
-#boxes_content .thumbnail, #top_bar, #video, #members_content, .container-fluid {
-  background-color: #293E6A;
-}
-
-#blog {
-  background-color: #223358;
+#boxes_content .thumbnail, #top_bar, #video, #members_content, .container-fluid, #blog {
+  background-color: #293E6A; /* darker blue */
 }
 
 footer {
@@ -19,6 +15,18 @@ footer {
   background-color: black;
   font-size: 1em;
   text-align: center;
+}
+a:link {
+  color: #B6A754; /*yellow*/
+}
+a:visited {
+  color: #DCD087; /*lighter yellow*/
+}
+a:hover {
+  color: #646114; /*darker yellow*/
+}
+a:active {
+  color: #B6A754; /*yellow*/
 }
 
 .spacing {
@@ -29,7 +37,7 @@ footer {
   color: white;
 }
 #members_content_text {
-  margin-top: 40px;
+  margin-top: 30px;
 }
 #calpreservation {
   margin-top: 20px;
@@ -49,7 +57,6 @@ footer {
 } 
 
 #members_content {
-  font-size: 2.3em;
   text-align: center;
   height: 200px;
 }
@@ -73,10 +80,10 @@ footer {
   padding-top: 20px;
 }
 
-#inside-blog h2, #inside-blog h4 {
+h2, h4 {
   color: #77BA9B; /* greenish */ 
 }
 
 #inside-blog p {
-  color: #B6A754; /*yellow*/
+  color: white; 
 }

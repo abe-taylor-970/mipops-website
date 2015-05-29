@@ -23,14 +23,14 @@
             <li><a href="construction.php">Contact</a></li>
             <li class="dropdown"><a href="#" data-toggle="dropdown">Members<span class="caret"></span></a>
               <ul class="dropdown-menu">
-                <li><a href="construction.php">Members</a></li>
+                <li><a href="members.php">Members</a></li>
                 <li><a href="organizations.php">Similar Organizations</a></li>
               </ul>                    
             </li>
             <li class="dropdown"><a href="#" data-toggle="dropdown">Info<span class="caret"></span></a>
               <ul class="dropdown-menu">
                 <li><a href="visit.php">Visiting Us</a></li>
-                <li><a href="construction.php">Planning Your Project</a></li>
+                <li><a href="planning.php">Planning Your Project</a></li>
                 <li><a href="construction.php">Using Internet Archive</a></li>
               </ul>                    
             </li>

@@ -1,7 +1,7 @@
 <div class="row" id="members_content">
   <div class="col-xs-4" id="members_content_text">
-    <p>Similar</p>
-    <p>Organizations</p>
+    <h2>Similar</h2>
+    <h2>Organizations</h2>
   </div><!-- text column -->
   <div class="col-xs-2">
     <a href="http://calpreservation.org/projects/audiovisual-preservation/" class="thumbnail" id="calpreservation">
