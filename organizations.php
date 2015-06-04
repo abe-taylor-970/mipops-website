@@ -8,6 +8,7 @@
   <body>
 		<section class="container">
       <?php include "_/php/header.php"; ?>
+      <div class="spacing"></div>
       <?php include "_/php/members_content.php"; ?>
       <?php include "_/php/footer.php"; ?>
     </section><!-- container -->

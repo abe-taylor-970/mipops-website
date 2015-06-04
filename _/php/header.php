@@ -13,6 +13,7 @@
         <div class="collapse navbar-collapse" id="collapse">
           <ul class="nav navbar-nav">
             <li><a href="index.php">Home</a></li>
+            <li><a href="contact.php">Contact</a></li>
             <li class="dropdown"><a href="#" data-toggle="dropdown">About<span class="caret"></span></a>
               <ul class="dropdown-menu">
                 <li><a href="construction.php">Membership</a></li>
@@ -20,7 +21,6 @@
                 <li><a href="construction.php">About us</a></li>
               </ul>
             </li>
-            <li><a href="construction.php">Contact</a></li>
             <li class="dropdown"><a href="#" data-toggle="dropdown">Members<span class="caret"></span></a>
               <ul class="dropdown-menu">
                 <li><a href="members.php">Members</a></li>
