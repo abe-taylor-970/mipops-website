@@ -8,12 +8,13 @@
   <body>
 		<section class="container">
       <?php include "_/php/header.php"; ?>
+      <div class="spacing"></div>
       <div class="row">
-        <div class="col-md-6 col-xs-12">
+        <div class="col-md-5 col-xs-12 border members">
           <h3>Rachel Price</h3>
           <p>MIPOPS Director</p>
         </div>
-        <div class="col-md-6 col-xs-12">
+        <div class="col-md-6 col-md-offset-1 col-xs-12 border members background2">
           <h3>Hannah Palin</h3>
           <p>Film Archives Specialist</p>
           <p>University of Washington Special Collections</p>
@@ -25,7 +26,7 @@
       </div><!-- end row -->
       <div class="spacing"></div>
       <div class="row">
-        <div class="col-md-6 col-xs-12">
+        <div class="col-md-5 col-xs-12 border members">
           <h3>Carol Shenk</h3>
           <p>King County Archivist</p>
           <p>archives@kingcounty.gov</p>
@@ -33,7 +34,7 @@
           <img src="img/king_county.jpg" alt="King County Archives" class="img-responsive"/>
           </a>
         </div>
-        <div class="col-md-6 col-xs-12">
+        <div class="col-md-6 col-md-offset-1 col-xs-12 border members">
           <h3>Anne Frantilla</h3>
           <p>Seattle Municipal Archives</p>
           <p>archives@seattle.gov</p>

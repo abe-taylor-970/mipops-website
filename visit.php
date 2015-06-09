@@ -7,10 +7,9 @@
     <?php include "_/php/bootstrap.php"; ?>
   </head>
   <body id="visit">
-
-		<section class="container">
+    <div class="spacing"></div>
+		<section class="container border">
       <?php include "_/php/header.php"; ?>
-
       <h1>What to Expect on Your First Visit to MIPOPS</h1>
 
       <ul>
@@ -27,9 +26,9 @@
         <li>Let us know what file formats you would like your video transferred to.  The scripts for digitizing into specific formats are written in ffmpeg; if you need formats other than mpeg4 and ffv1 please let us know ahead of time. Please email or call and we can discuss this to you.</li>
         <li>Expect to work one-on-one with someone on your first visit; it won't be long before you'll be on your own, but even then there will be someone there to help if you need it</li>
       </ul>
-      <?php include "_/php/footer.php"; ?>
     </section><!-- container -->
 
+    <?php include "_/php/footer.php"; ?>
     <?php include "_/php/javascript.php"; ?>
   </body>
 </html>

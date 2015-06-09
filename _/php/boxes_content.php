@@ -3,9 +3,9 @@
   <div class="col-md-4 col-xs-12">
     <div class="thumbnail boxes">
       <div class="caption">
-        <h2>For archives & libraries</h2>
-        <p><a href="construction.php">Why Digital Preservation?</a></p>
-        <p><a href="construction.php">Technical Standards</a></p>
+        <h2>Digital Preservation</h2>
+        <p><a href="construction.php">The Magnetic Media Crisis</a></p>
+        <p><a href="construction.php">Standards</a></p>
         <p><a href="construction.php">Research</a></p>
         <p><a href="organizations.php">Similar organizations</a></p>
       </div>
@@ -17,7 +17,7 @@
         <h2>Using our Services</h2>
         <p><a href="visit.php">What to expect when you visit us</a></p>
         <p><a href="planning.php">Planning your project</a></p>
-        <p><a href="construction.php">Now that your videos are converted -- using the Internet Archive to host your videos</a></p>
+        <p><a href="construction.php">Providing Access</a></p>
       </div>
     </div>
   </div>

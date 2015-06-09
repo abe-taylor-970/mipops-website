@@ -6,7 +6,8 @@
     <?php include "_/php/bootstrap.php"; ?>
   </head>
   <body>
-		<section class="container">
+    <div class="spacing"></div>
+		<section class="container border">
       <?php include "_/php/header.php"; ?>
       <h1>Planning Your Videotape Project</h1>
       <p>As with all digitization projects, it is helpful to know what your goals are.</p>
@@ -24,8 +25,8 @@
       <p>Once the digitization is done you have not only the original videotape but associated digital files.  Where you store them and how you describe them will be very important when that first researcher asks for a copy.</p>
       <p>Other MiPOPS members are a great resource!</p>
 
-      <?php include "_/php/footer.php"; ?>
     </section><!-- container -->
+    <?php include "_/php/footer.php"; ?>
     <?php include "_/php/javascript.php"; ?>
   </body>
 </html>

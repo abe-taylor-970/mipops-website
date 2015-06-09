@@ -1,3 +1,11 @@
 -fix blog update so that it works for pictures
 -find a good primary color scheme that works
--move FAQS in menu under About
+
+
+Monday:
+Fix so edges of the top_bar and boxes are the same width as blog_video and members
+other changes in paint doc Carol sent
+do diff on modified html and make changes
+look around and fix other stuff
+center menu or make it look right
+make blog text a better color than white

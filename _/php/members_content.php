@@ -1,4 +1,4 @@
-<div class="row" id="members_content">
+<div class="row border" id="members_content">
   <div class="col-xs-4" id="members_content_text">
     <h2>Similar</h2>
     <h2>Organizations</h2>
