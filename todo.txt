@@ -1,11 +1,16 @@
 -fix blog update so that it works for pictures
--find a good primary color scheme that works
+
+-Fix so edges of the top_bar and boxes are the same width as blog_video and members
+-other changes in paint doc Carol sent
+-look around and fix other stuff
+-mobile app look at
+-mobile fix Similar Organizations
+
+Waiting on from Carol:
+favicon.ico
+
+NEW !
+use @media(min-width:NNNpx)[] and max-width to adjust width
 
 
-Monday:
-Fix so edges of the top_bar and boxes are the same width as blog_video and members
-other changes in paint doc Carol sent
-do diff on modified html and make changes
-look around and fix other stuff
-center menu or make it look right
-make blog text a better color than white
+TO DO NOW :Need to get the pictures for similar organizations to be the right size and work at small width screens.

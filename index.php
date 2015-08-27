@@ -8,22 +8,19 @@
 </head>
 
 <body>
-  <div class="container-fluid" id="top_container_fluid">
+  <div class="full-width"> 
+    <div class="container">
     <?php include "_/php/header.php"; ?>
     <?php include "_/php/top_bar.php"; ?> 
-  </div>
-
-  <div class="container-fluid" id="non_profit_text">
-    <div class="container">
-      <p>Moving Image Preservation of Puget Sound is a non-profit 501-3© corporation formed to help preserve our cultural heritage by assisting archives, libraries, and other organizations and individuals with conversion of analog video recordings to digital format according to archival best practices.</p>
     </div><!-- container -->
-  </div><!-- container-fluid-->
+  </div><!-- full-width-->
   <div class="container" id="main_container">
     <div class="spacing"></div>
     <?php include "_/php/boxes_content.php"; ?> 
+    <div class="spacing"></div>
     <?php include "_/php/video_blog_content.php"; ?>
     <div class="spacing"></div>
-    <?php include "_/php/members_content.php"; ?>
+    <?php include "_/php/similar_organizations.php"; ?>
     <div class="row">
       <div class="col-xs-12">
         <img src="img/website_under_construction1.png" alt="Website Under Construction" class="img-responsive">

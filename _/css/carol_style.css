@@ -1,20 +1,21 @@
-
-
 /* COLORS */
 body {
-background-color: #FF9900; /* orange */
+  background-color: #C67C00; /* muted orange */
+/*  background-color: #FF9900; /* orange */
 }
-#boxes_content .thumbnail, #top_bar, #video, #members_content, .container-fluid, #blog, .border {
-  background-color: #CC3300; /* darker orange */
+#boxes_content .thumbnail, #top_bar, #video, #similar_organizations, .container-fluid, #blog, .border, .full-width {
+  background-color: #A72B00; /* muted red */
+/*  background-color: #CC3300; /* red */
 }
-body, footer, #boxes_content .thumbnail .caption, #inside-blog p {
+body, footer, #boxes_content .thumbnail .caption{
   color: #E0EBFF;
 }
 h1, h2, h3, h4, .container {
   color: #E0F0F0; /*lighter greenish-blue */ 
 }
 a:link {
-  color: #FFFF66; /*yellow*/
+  color: #E6E65C; /*yellow*/
+/*  color: #FFFF66; /*yellow*/
 }
 a:visited {
   color: #DCD087; /*lighter yellow*/
@@ -31,12 +32,95 @@ a:active {
 .type1 a {
   color: #004700; /*dark green*/
 }
+#blog_text {
+  padding-left: 5px;
+  padding-right: 5px;
+  margin-left: 5px;
+  margin-right: 5px;
+  margin-bottom: 10px;
+/*  border: 1px solid Bisque;
+  border-radius: 4px;  */
+  background-color: #842200; /*dark red */ 
+  font-size: 1.2em;
+}
+#blog_text h4 {
+  color: #D4B58D;
+}
+#blog_text p, #address p, .members p, .type2 { 
+  color: #DBC3A3; /* lighter tan */
+/*  color: tan; */
+}
+#faqs p {
+  color: tan;
+}
+#faqs i {
+  color:#E8DAC6; /* light tan */ 
+}
 /* END COLORS */
 
+/* when less than medium size */
+@media (max-width: 991px) {
+  .hidden-small {
+    margin-bottom : 10px;
+  }
+}
+
+/* when medium size or greater */
+@media (min-width: 992px) {
+  .container {
+    padding-left: 60px;
+    padding-right: 60px;
+  }
+  #calpreservation {
+    margin-top: 20px;
+  }
+  #uluulu {
+    margin-top: 50px;
+  }
+  #danceheritage {
+    margin-top: 60px;
+  }
+  #xfr-stn {
+    margin-top: 40px;
+  }
+  #similar_organizations_text {
+    margin-top: 30px;
+  }
+}
+
+/* when less than large size */
+@media (max-width: 1199px) {
+  #video {
+    padding-top: 20px;
+  }
+}
+/* when large size or greater */
+@media (min-width: 1200px) {
+  #video {
+    padding-top: 30px;
+  }
+}
+a {
+  font-size: 1.4em;
+}
 body {
   padding-top: 50px; 
 }
 
+#read_more {
+  text-align: right;
+}
+
+.type2 {
+  padding-left: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+/* font-size */
+.type2, .members, #address {
+  font-size: 1.4em;
+}
 
 footer {
   padding-top: 20px;
@@ -44,33 +128,20 @@ footer {
   text-align: center;
 }
 
-.spacing {
+.spacing  {
   height:30px;
 }
 
-#members_content_text {
-  margin-top: 30px;
-}
-#calpreservation {
-  margin-top: 20px;
-}
-#uluulu {
-  margin-top: 50px;
-}
-#danceheritage {
-  margin-top: 60px;
-}
-#xfr-stn {
-  margin-top: 40px;
-}
-
-#members_content {
+#similar_organizations {
   text-align: center;
-  height: 200px;
 }
 
-#top_bar {
+#top_name {
   font-size: 3em;
+  text-align: center;
+}
+
+.center {
   text-align: center;
 }
 
@@ -90,9 +161,8 @@ footer {
   visibility: hidden;
 }
 
-#video {
-  padding-top: 20px;
+
+.indent {
+  padding-left: 20px;
 }
-
-
 

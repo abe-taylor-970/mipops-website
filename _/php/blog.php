@@ -7,5 +7,7 @@
   $small_post = substr($post,0,500);
   echo '<h4>'.$title.'</h4>';
   echo '<p>'.$small_post.'…'.'</p>';
-  echo "<a target=frame2 href='http://mipops.tumblr.com/'>Read More</a>"; 
+  echo "<div id='read_more'>";
+  echo "<a target=frame2 href='http://mipops.tumblr.com/'>Read More</a>";
+  echo "</div>";
 ?>

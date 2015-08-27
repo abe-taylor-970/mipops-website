@@ -1,0 +1,136 @@
+/* COLORS */
+body {
+  background-color: #FF9900; /* orange */
+}
+#boxes_content .thumbnail, #top_bar, #video, #members_content, .container-fluid, #blog, .border, .full-width {
+  background-color: #CC3300; /* red */
+}
+body, footer, #boxes_content .thumbnail .caption, #inside-blog p {
+  color: #E0EBFF;
+}
+h1, h2, h3, h4, .container {
+  color: #E0F0F0; /*lighter greenish-blue */ 
+}
+a:link {
+  color: #FFFF66; /*yellow*/
+}
+a:visited {
+  color: #DCD087; /*lighter yellow*/
+}
+a:hover {
+  color: #646114; /*darker yellow*/
+}
+a:active {
+  color: #B6A754; /*yellow*/
+}
+.type1 {
+  color: #000099; /*dark blue*/
+}
+.type1 a {
+  color: #004700; /*dark green*/
+}
+.type2 {
+  background-color: #B26B00; /*tanFFCC66*/
+  padding-left: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.type3 {
+  background-color: #B26B00; /*tanFFCC66*/
+}
+/* END COLORS */
+
+@media (min-width: 768px) {
+    .container-small {
+        width: 300px;
+    }
+    .container-large {
+        width: 970px;
+    }
+}
+@media (min-width: 992px) {
+    .container-small {
+        width: 500px;
+    }
+    .container-large {
+        width: 1170px;
+    }
+}
+@media (min-width: 1200px) {
+    .container-small {
+        width: 700px;
+    }
+    .container-large {
+        width: 1500px;
+    }
+}
+
+body {
+  padding-top: 50px; 
+}
+
+
+footer {
+  padding-top: 20px;
+  font-size: 1em;
+  text-align: center;
+}
+
+.spacing {
+  height:30px;
+}
+
+#members_content_text {
+  margin-top: 30px;
+}
+#calpreservation {
+  margin-top: 20px;
+}
+#uluulu {
+  margin-top: 50px;
+}
+#danceheritage {
+  margin-top: 60px;
+}
+#xfr-stn {
+  margin-top: 40px;
+}
+
+#members_content {
+  text-align: center;
+  height: 200px;
+}
+
+#top_name {
+  font-size: 3em;
+  text-align: center;
+}
+
+.center {
+  text-align: center;
+}
+
+#top_logo, #top_name {
+  margin-top: 40px;
+}
+
+.border {
+  border: 1px solid #ddd;
+  border-radius: 4px; 
+}
+
+.members {
+  height : 300px;
+}
+.carousel-indicators li {
+  visibility: hidden;
+}
+
+#video {
+  padding-top: 20px;
+}
+
+.indent {
+  padding-left: 20px;
+}
+
