@@ -18,7 +18,7 @@
       <h1>What to expect when you visit us</h1>
 
       <div class="row type2">
-        <p>MIPoPS is a membership-based non-profit, and use of the MIPoPS migration lab requires a service agreement.  To become a MIPoPS member, please contact us.  Reviewing and answering the questions in Planning Your Project will help you define your needs.</p>
+        <p>MIPoPS is a membership-based non-profit, and use of the MIPoPS migration lab requires a service agreement.  To become a MIPoPS member, please contact us.  Reviewing and answering the questions in <a href="planning.php"><u>Planning Your Project</u></a> will help you define your needs.</p>
         <br />
         <p>Following is a guide to using the MIPoPS migration lab:</p>
         <br />

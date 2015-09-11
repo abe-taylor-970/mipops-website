@@ -20,7 +20,7 @@
                   <li><a href="members.php">Members</a></li>
                   <li><a href="construction.php">Membership</a></li>
                   <li><a href="faqs.php">Frequently Asked Questions</a></li> 
-                  <li><a href="construction.php">About us</a></li>
+                  <li><a href="about.php">About us</a></li>
                 </ul>
               </li>
               <li class="dropdown"><a href="#" data-toggle="dropdown">Services<span class="caret"></span></a>

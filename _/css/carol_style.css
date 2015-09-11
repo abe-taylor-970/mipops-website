@@ -128,7 +128,7 @@ footer {
   text-align: center;
 }
 
-.type1 a {
+.type1 a, .type2 a {
   font-size: 1em;
 }
 
