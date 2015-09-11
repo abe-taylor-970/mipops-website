@@ -19,7 +19,7 @@
 
       <div class="row type2">
         <ul>
-          <li>MIPOPS is located on Floor 3 of City Hall, 600 Fourth Avenue, Seattle.  Entrances are on Fourth and Fifth Avenues and on Cherry.  Public transportation is the best option as parking in the vicinity is expensive.</li>
+          <li>MIPoPS is located on Floor 3 of City Hall, 600 Fourth Avenue, Seattle.  Entrances are on Fourth and Fifth Avenues and on Cherry.  Public transportation is the best option as parking in the vicinity is expensive.</li>
           <li>Check in with the reception desk for the Office of the City Clerk and we will escort you to the MIPOPS space.</li>  
           <li><b>Bring a Hard drive formatted for your office environment - windows or mac.</b></li> 
           <li>Videos are digitized in <i>real time</i>; you might not want to bring more than you have time for.</li>

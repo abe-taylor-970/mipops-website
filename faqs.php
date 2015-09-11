@@ -14,7 +14,7 @@
       </div><!-- container -->
     </div><!-- full-width-->
     <div class="spacing"></div>
-		<section class="container border">
+		<section class="container border" id="faqs_text">
         <h1>MIPoPS Frequently Asked Questions</h1>
         <div class="row type2" id="faqs">
           <i>What does MIPoPS stand for?</i>  

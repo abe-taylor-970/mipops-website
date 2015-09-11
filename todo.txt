@@ -11,6 +11,11 @@ favicon.ico
 
 NEW !
 use @media(min-width:NNNpx)[] and max-width to adjust width
-
+Phones : less than 768 px
+Tablets : 768 px and up
+Desktops : 992 px and up
+Large desktops : 1200 px and up
 
 TO DO NOW :Need to get the pictures for similar organizations to be the right size and work at small width screens.
+Get it to look nice on tablets
+Change menu so that it displays before clicking? 

@@ -29,7 +29,7 @@
         <p>Having staff resources is important as the digitization process is time consuming.</p>
         <p>For your first visit, plan to bring not more than two hours of program material.  The material can be on one tape or many.  Once you go through the process and understand the time commitment involved, you can go back to your shop and make a plan for finishing the project, one tape at a time!</p>
         <p>Once the digitization is done you have not only the original videotape but associated digital files.  Where you store them and how you describe them will be very important when that first researcher asks for a copy.</p>
-        <p>Other MiPOPS members are a great resource!</p>
+        <p>Other MIPoPS members are a great resource!</p>
       </div><!-- type 2 row -->
 
     </section><!-- container -->

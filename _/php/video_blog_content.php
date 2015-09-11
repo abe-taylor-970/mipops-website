@@ -13,7 +13,7 @@
       <div class="row">
         <div class="col-lg-11 col-lg-offset-1 border" id="video"> 
           <div class="row text-center" id="inside-video">
-            <iframe src="https://player.vimeo.com/video/112958248" width="400" height="300" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+            <iframe src="https://player.vimeo.com/video/112958248" id="main_iframe" width="400" height="300" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
     <!-- was width 320 -->
             <p><a href="https://vimeo.com/112958248">Kingdome Animated Logo</a> from <a href="https://vimeo.com/kcarchives">King County Archives</a>.</p>
           </div>
