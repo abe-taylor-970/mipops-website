@@ -15,37 +15,45 @@
 		<section class="container">
       <div class="spacing"></div>
       <div class="row">
-        <div class="col-md-5 col-xs-12 border members">
-          <h2>Rachel Price</h2>
-          <p>MIPoPS Director</p>
+        <div class="col-md-6 col-xs-12">
+          <div class="col-md-11 border members">
+            <h2>Rachel Price</h2>
+            <p>MIPoPS Director</p>
+          </div>
         </div>
-        <div class="col-md-6 col-md-offset-1 col-xs-12 border members background2">
-          <h1>Hannah Palin</h1>
-          <p>Film Archives Specialist</p>
-          <p>University of Washington Special Collections</p>
-          <p>filmarc@uw.edu</p>
-          <a href="http://www.lib.washington.edu/specialcollections">
-          <img src="img/uw_libraries.png" alt="University of Washington Libraries" class="img-responsive" />
-          </a>
+        <div class="col-md-6 col-xs-12">
+          <div class="col-md-11 col-md-offset-1 border members">
+            <h1>Hannah Palin</h1>
+            <p>Film Archives Specialist</p>
+            <p>University of Washington Special Collections</p>
+            <p>filmarc@uw.edu</p>
+            <a href="http://www.lib.washington.edu/specialcollections">
+            <img src="img/uw_libraries.png" alt="University of Washington Libraries" class="img-responsive" />
+            </a>
+          </div>
         </div>
       </div><!-- end row -->
       <div class="spacing"></div>
       <div class="row">
-        <div class="col-md-5 col-xs-12 border members">
-          <h1>Carol Shenk</h1>
-          <p>King County Archivist</p>
-          <p>archives@kingcounty.gov</p>
-          <a href= "http://www.kingcounty.gov/depts/records-licensing/archives.aspx">
-          <img src="img/king_county.jpg" alt="King County Archives" class="img-responsive"/>
-          </a>
+        <div class="col-md-6 col-xs-12">
+          <div class="col-md-11 border members">
+            <h1>Carol Shenk</h1>
+            <p>King County Archivist</p>
+            <p>archives@kingcounty.gov</p>
+            <a href= "http://www.kingcounty.gov/depts/records-licensing/archives.aspx">
+            <img src="img/king_county.jpg" alt="King County Archives" class="img-responsive"/>
+            </a>
+          </div>
         </div>
-        <div class="col-md-6 col-md-offset-1 col-xs-12 border members">
-          <h1>Anne Frantilla</h1>
-          <p>Seattle Municipal Archives</p>
-          <p>archives@seattle.gov</p>
-          <a href= "http://www.seattle.gov/cityarchives/">
-          <img src="img/seattle.png" alt="Seattle Archives" class="img-responsive" />
-          </a>
+        <div class="col-md-6 col-xs-12">
+          <div class="col-md-11 col-md-offset-1 border members">
+            <h1>Anne Frantilla</h1>
+            <p>Seattle Municipal Archives</p>
+            <p>archives@seattle.gov</p>
+            <a href= "http://www.seattle.gov/cityarchives/">
+            <img src="img/seattle.png" alt="Seattle Archives" class="img-responsive" />
+            </a>
+          </div>
         </div>
       </div><!-- end row -->
       <?php include "_/php/footer.php"; ?>
