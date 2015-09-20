@@ -16,19 +16,20 @@
       <div class="spacing"></div>
       <div class="row">
         <div class="col-md-6 col-xs-12">
-          <div class="col-md-11 border members">
+          <div class="col-md-11 border members hidden-small2">
             <h2>Rachel Price</h2>
-            <p>MIPoPS Director</p>
+            <p><i>MIPoPS Director</i></p>
+            <p><a href="mailto:rachel@mipops.org">rachel@mipops.org</a></p>
           </div>
         </div>
         <div class="col-md-6 col-xs-12">
           <div class="col-md-11 col-md-offset-1 border members">
             <h1>Hannah Palin</h1>
-            <p>Film Archives Specialist</p>
-            <p>University of Washington Special Collections</p>
-            <p>filmarc@uw.edu</p>
+            <p><i>Film Archives Specialist</i></p>
+            <p><i>University of Washington Special Collections</i></p>
+            <p><a href="mailto:hannah@mipops.org">hannah@mipops.org</a></p>
             <a href="http://www.lib.washington.edu/specialcollections">
-            <img src="img/uw_libraries.png" alt="University of Washington Libraries" class="img-responsive" />
+              <img src="img/uw_libraries.png" alt="University of Washington Libraries" class="img-responsive"/>
             </a>
           </div>
         </div>
@@ -36,22 +37,22 @@
       <div class="spacing"></div>
       <div class="row">
         <div class="col-md-6 col-xs-12">
-          <div class="col-md-11 border members">
+          <div class="col-md-11 border members hidden-small2">
             <h1>Carol Shenk</h1>
-            <p>King County Archivist</p>
-            <p>archives@kingcounty.gov</p>
+            <p><i>King County Archivist</i></p>
+            <p><a href="mailto:carol@mipops.org">carol@mipops.org</a></p>
             <a href= "http://www.kingcounty.gov/depts/records-licensing/archives.aspx">
-            <img src="img/king_county.jpg" alt="King County Archives" class="img-responsive"/>
+              <img src="img/king_county.jpg" alt="King County Archives" class="img-responsive"/>
             </a>
           </div>
         </div>
         <div class="col-md-6 col-xs-12">
           <div class="col-md-11 col-md-offset-1 border members">
             <h1>Anne Frantilla</h1>
-            <p>Seattle Municipal Archives</p>
-            <p>archives@seattle.gov</p>
+            <p><i>Seattle Municipal Archives</i></p>
+            <p><a href="mailto:anne@mipops.org">anne@mipops.org</a></p>
             <a href= "http://www.seattle.gov/cityarchives/">
-            <img src="img/seattle.png" alt="Seattle Archives" class="img-responsive" />
+              <img src="img/seattle.png" alt="Seattle Archives" class="img-responsive"/>
             </a>
           </div>
         </div>
