@@ -1,21 +1,16 @@
 -fix blog update so that it works for pictures
 
--Fix so edges of the top_bar and boxes are the same width as blog_video and members
--other changes in paint doc Carol sent
--look around and fix other stuff
--mobile app look at
--mobile fix Similar Organizations
-
-Waiting on from Carol:
-favicon.ico
-
-NEW !
+**********notes on pixels***********************
 use @media(min-width:NNNpx)[] and max-width to adjust width
 Phones : less than 768 px
 Tablets : 768 px and up
 Desktops : 992 px and up
 Large desktops : 1200 px and up
 
-TO DO NOW :Need to get the pictures for similar organizations to be the right size and work at small width screens.
-Get it to look nice on tablets
-Change menu so that it displays before clicking? 
+TO DO:
+*)Get it to look nice on tablets
+*)Change menu so that it displays before clicking? 
+*)fix members.php to be evenly spaced on mobile
+*)fix about.php so that mission statement is not said twice
+*)fix organizations.php so that it gives details on the organizations
+*)fix contact.php so that map is responsive to mobile

@@ -21,11 +21,6 @@
     <?php include "_/php/video_blog_content.php"; ?>
     <div class="spacing"></div>
     <?php include "_/php/similar_organizations.php"; ?>
-    <div class="row">
-      <div class="col-xs-12">
-        <img src="img/website_under_construction1.png" alt="Website Under Construction" class="img-responsive">
-      </div>
-    </div>
     <?php include "_/php/footer.php"; ?>
   </div> <!-- end container -->
   <?php include "_/php/javascript.php"; ?>

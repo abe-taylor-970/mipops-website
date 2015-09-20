@@ -46,7 +46,7 @@ a:active {
 #blog_text h4 {
   color: #D4B58D;
 }
-#blog_text p, #address p, .members p, .type2 { 
+#blog_text p, #address p, .members p, .organizations p, .type2 { 
   color: #DBC3A3; /* lighter tan */
 /*  color: tan; */
 }
@@ -118,7 +118,7 @@ body {
 }
 
 /* font-size */
-.type2, .members, #address {
+.type2, .members, .organizations, #address {
   font-size: 1.4em;
 }
 
@@ -136,6 +136,9 @@ footer {
   height:30px;
 }
 
+.small_spacing  {
+  height:10px;
+}
 #similar_organizations {
   text-align: center;
 }
@@ -158,7 +161,7 @@ footer {
   border-radius: 4px; 
 }
 
-.members {
+.members, .organizations {
   height : 300px;
 }
 .carousel-indicators li {

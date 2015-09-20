@@ -18,7 +18,7 @@
               <li class="dropdown"><a href="#" data-toggle="dropdown">About<span class="caret"></span></a>
                 <ul class="dropdown-menu">
                   <li><a href="members.php">Members</a></li>
-                  <li><a href="construction.php">Membership</a></li>
+                  <li><a href="membership.php">Membership</a></li>
                   <li><a href="faqs.php">Frequently Asked Questions</a></li> 
                   <li><a href="about.php">About us</a></li>
                 </ul>
@@ -27,14 +27,13 @@
                 <ul class="dropdown-menu">
                   <li><a href="visit.php">Visiting Us</a></li>
                   <li><a href="planning.php">Planning Your Project</a></li>
-                  <li><a href="construction.php">Providing Access</a></li>
+                  <li><a href="access.php">Providing Access</a></li>
                 </ul>                    
               </li>
               <li class="dropdown"><a href="#" data-toggle="dropdown">Resources<span class="caret"></span></a>
                 <ul class="dropdown-menu">
-                  <li><a href="construction.php">The Magnetic Media Crisis</a></li>
-                  <li><a href="construction.php">Technical Standards</a></li>
-                  <li><a href="construction.php">Research</a></li>
+                  <li><a href="magnetic.php">The Magnetic Media Crisis</a></li>
+                  <li><a href="resources.php">Resources</a></li>
                   <li><a target=frame2 href="https://archive.org/details/@mipops">Internet Archives</a></li>
                 </ul>                    
               </li>

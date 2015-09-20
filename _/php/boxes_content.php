@@ -4,7 +4,7 @@
     <ul>
       <li><a href="visit.php">What to expect when you visit us</a></li><p />
       <li><a href="planning.php">Planning your project</a></li><p />
-      <li><a href="construction.php">Providing Access</a></li><p />
+      <li><a href="access.php">Providing Access</a></li><p />
     </ul>
   </div>
   <div class="col-md-4 col-xs-12 hidden-small">
@@ -12,9 +12,8 @@
       <div class="col-md-11 col-md-offset-1 border boxes">
         <h2>Digital Preservation</h2>
         <ul>
-          <li><a href="construction.php">The Magnetic Media Crisis</a></li><p />
-          <li><a href="construction.php">Technical Standards</a></li><p />
-          <li><a href="construction.php">Research</a></li><p />
+          <li><a href="magnetic.php">The Magnetic Media Crisis</a></li><p />
+          <li><a href="resources.php">Resources</a></li><p />
           <li><a href="organizations.php">Similar organizations</a></li><p />
         </ul>
       </div><!-- end inside boxes-->
@@ -27,7 +26,7 @@
         <ul>
           <li><a href="members.php">Members</a></li><p />
           <li><a href="about.php">About us</a></li><p />
-          <li><a href="construction.php">Membership</a></li><p />
+          <li><a href="membership.php">Membership</a></li><p />
           <li><a href="faqs.php">FAQS</a></li><p />
         </ul>
       </div><!-- end inside boxes-->

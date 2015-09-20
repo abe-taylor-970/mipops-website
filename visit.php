@@ -18,9 +18,9 @@
       <h1>What to expect when you visit us</h1>
 
       <div class="row type2">
-        <p>MIPoPS is a membership-based non-profit, and use of the MIPoPS migration lab requires a service agreement.  To become a MIPoPS member, please contact us.  Reviewing and answering the questions in <a href="planning.php"><u>Planning Your Project</u></a> will help you define your needs.</p>
+        <p>MIPoPS is a membership-based non-profit, and use of the MIPoPS digitization station requires a service agreement.  To become a MIPoPS member, please contact us.  Reviewing and answering the questions in <a href="planning.php"><u>Planning Your Project</u></a> will help you define your needs.</p>
         <br />
-        <p>Following is a guide to using the MIPoPS migration lab:</p>
+        <p>Following is a guide to using the MIPoPS digitization station:</p>
         <br />
         <ul>
           <li>Workstation space is limited: contact MIPoPS at least two days in advance to schedule an appointment.</li>
@@ -28,7 +28,7 @@
           <li>Check in with the reception desk for the Office of the City Clerk and we will escort you to the MIPoPS space.</li>
           <li><b>Bring a portable hard drive formatted for your office environment - windows or mac.</b></li>
           <li>Videos are digitized in <i>real time</i>; you might not want to bring more than you have time for.</li>
-          <li>Be sure to label your cartridge cases and hard drive with your institution’s name.</li>
+          <li>Be sure to label your cartridge cases and hard drive with your institution's name.</li>
           <li>Three primary steps included: <ol><li>digitizing video tape</li><li>transcoding resulting .mov file to file format(s) of your choice</li><li>copying files onto your media.</li></ol></li>
           <li>MIPoPS does not provide storage space for either analog objects or digital files. Be prepared to take your items with you at the end of the day.</li>
           <li>Do as much appraisal as possible in advance.</li>
