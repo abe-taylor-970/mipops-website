@@ -14,6 +14,14 @@ $(document).ready(function() {
             $("#video").height(maxvdHeight - 30);
         }
 
+        var one = "#similar1";
+        var two = "#similar2";
+        sameHeight(one,two);        
+
+        one = "#similar3";
+        two = "#similar4";
+        sameHeight(one,two);        
+
         // set boxes to be same height
         var boxesHeights = $(".boxes").map(function() {
             return $(this).outerHeight(true);
@@ -37,3 +45,16 @@ $(document).ready(function() {
       alert("You are using Internet Explorer 10, which is not currently supported by this website.");       
     }
 });
+
+function sameHeight(first, second) {
+        var firstHeight = $(first).outerHeight(true);
+        var secondHeight = $(second).outerHeight(true);
+
+        var maxfsHeight = Math.max(firstHeight, secondHeight); 
+        if ( firstHeight < maxfsHeight ) {
+            $(first).height(maxfsHeight);
+        }
+        if ( secondHeight < maxfsHeight ) {
+            $(second).height(maxfsHeight);
+        }
+}

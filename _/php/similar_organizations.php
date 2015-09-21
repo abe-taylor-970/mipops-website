@@ -1,7 +1,7 @@
 <div class="row border" id="similar_organizations">
   <div class="col-md-4 col-xs-12" id="similar_organizations_text">
-    <h2>Similar</h2>
-    <h2>Organizations</h2>
+    <a href="organizations.php"><h2>Similar</h2>
+    <h2>Organizations</h2></a>
   </div><!-- text column -->
   <div class="col-md-2 col-xs-6">
     <a target=frame2 href="http://calpreservation.org/projects/audiovisual-preservation/" class="thumbnail" id="calpreservation">
@@ -24,3 +24,4 @@
     </a>
   </div>
 </div>
+

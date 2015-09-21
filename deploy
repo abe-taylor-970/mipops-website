@@ -6,6 +6,7 @@ sudo cp -a _/php/. /opt/lampp/htdocs/_/php/
 sudo cp -a _/css/. /opt/lampp/htdocs/_/css/
 sudo cp -a _/js/. /opt/lampp/htdocs/_/js/
 sudo cp -a img/. /opt/lampp/htdocs/img/
+sudo cp -a dox/. /opt/lampp/htdocs/dox/
 
 sudo cp ./* /opt/lampp/htdocs/
 sudo chmod -R 777 /opt/lampp/htdocs/
