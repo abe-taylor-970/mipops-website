@@ -1,6 +1,7 @@
 $(document).ready(function() {
 //Set window heights and widths
     var windowWidth = $(window).width();
+//if large screen
     if ( windowWidth >= 1200 ) {
         // set blog to be same height as video
         var videoHeight = $("#video").outerHeight(true);
@@ -29,6 +30,7 @@ $(document).ready(function() {
         maxbHeight = Math.max.apply(null, boxesHeights);
         $(".boxes").height(maxbHeight);
     }
+// if extra small screen
     if ( windowWidth < 768 ) {
         document.getElementById("main_iframe").height = 225;
         document.getElementById("main_iframe").width = 300;

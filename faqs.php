@@ -33,7 +33,7 @@
           <p>As of 2015, MIPoPS can digitize VHS, UMatic, BetaSP, DVCam, MiniDV, and 1-inch video.</p>
 
           <i>Where is MIPoPS?</i>
-          <p>MIPoPS is currently located on Floor 3 of City Hall.</p>
+          <p>MIPoPS is currently located on Floor 3 of Seattle City Hall.</p>
         </div><!-- type 2 row -->
 
 

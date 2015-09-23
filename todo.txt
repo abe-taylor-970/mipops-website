@@ -14,3 +14,4 @@ TO DO:
 *)fix about.php so that mission statement is not said twice
 *)fix organizations.php so that it gives details on the organizations
 *)fix contact.php so that map is responsive to mobile
+*)now that added responsive_iframe, does it work for video in video_blog.php?
