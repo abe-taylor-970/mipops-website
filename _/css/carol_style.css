@@ -46,7 +46,7 @@ a:active {
 #blog_text h4 {
   color: #D4B58D;
 }
-#blog_text p, #address p, .members p, .organizations p, .type2 { 
+#mission_box p, #blog_text p, #address p, .members p, .organizations p, .type2 { 
   color: #DBC3A3; /* lighter tan */
 /*  color: tan; */
 }
@@ -154,6 +154,7 @@ footer {
   text-align: center;
 }
 
+  
 .center {
   text-align: center;
 }

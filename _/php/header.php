@@ -15,14 +15,6 @@
             <ul class="nav navbar-nav">
               <li><a href="index.php">Home</a></li>
               <li><a href="contact.php">Contact</a></li>
-              <li class="dropdown"><a href="#" data-toggle="dropdown">About<span class="caret"></span></a>
-                <ul class="dropdown-menu">
-                  <li><a href="members.php">Members</a></li>
-                  <li><a href="membership.php">Membership</a></li>
-                  <li><a href="faqs.php">Frequently Asked Questions</a></li> 
-                  <li><a href="about.php">About us</a></li>
-                </ul>
-              </li>
               <li class="dropdown"><a href="#" data-toggle="dropdown">Services<span class="caret"></span></a>
                 <ul class="dropdown-menu">
                   <li><a href="visit.php">Visiting Us</a></li>
@@ -34,8 +26,17 @@
                 <ul class="dropdown-menu">
                   <li><a href="magnetic.php">The Magnetic Media Crisis</a></li>
                   <li><a href="resources.php">Resources</a></li>
+                  <li><a href="organizations.php">Similar Organizations</a></li>
                   <li><a target=frame2 href="https://archive.org/details/@mipops">Internet Archives</a></li>
                 </ul>                    
+              </li>
+              <li class="dropdown"><a href="#" data-toggle="dropdown">About<span class="caret"></span></a>
+                <ul class="dropdown-menu">
+                  <li><a href="about.php">About us</a></li>
+                  <li><a href="members.php">Members</a></li>
+                  <li><a href="faqs.php">Frequently Asked Questions</a></li> 
+                  <li><a href="membership.php">Membership</a></li>
+                </ul>
               </li>
             </ul> 
           </div> <!-- navbar-header -->

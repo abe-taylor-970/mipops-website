@@ -9,7 +9,7 @@
     <div class="full-width"> 
       <div class="container">
       <?php include "_/php/header.php"; ?>
-      <?php include "_/php/top_bar_no_mission.php"; ?> 
+      <?php include "_/php/top_bar.php"; ?> 
       </div><!-- container -->
     </div><!-- full-width-->
     <div class="spacing"></div>

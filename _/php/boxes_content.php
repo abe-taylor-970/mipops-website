@@ -14,7 +14,7 @@
         <ul>
           <li><a href="magnetic.php">The Magnetic Media Crisis</a></li><p />
           <li><a href="resources.php">Resources</a></li><p />
-          <li><a href="organizations.php">Similar organizations</a></li><p />
+          <li><a target=frame2 href="https://archive.org/details/@mipops">Internet Archives</a></li>
         </ul>
       </div><!-- end inside boxes-->
     </div><!-- end row -->
@@ -24,10 +24,10 @@
       <div class="col-md-11 col-md-offset-1 border boxes">
         <h2>About MIPoPS</h2>
         <ul>
-          <li><a href="members.php">Members</a></li><p />
           <li><a href="about.php">About us</a></li><p />
-          <li><a href="membership.php">Membership</a></li><p />
+          <li><a href="members.php">Members</a></li><p />
           <li><a href="faqs.php">FAQS</a></li><p />
+          <li><a href="membership.php">Membership</a></li><p />
         </ul>
       </div><!-- end inside boxes-->
     </div><!-- end row -->

@@ -9,3 +9,4 @@
       <?php include "_/php/top_carousel.php"; ?>
     </div><!-- Carousel -->
 </div>
+<p><?php include "_/php/mission.php"; ?></p>

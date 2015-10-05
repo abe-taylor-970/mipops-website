@@ -21,6 +21,8 @@
     <?php include "_/php/video_blog_content.php"; ?>
     <div class="spacing"></div>
     <?php include "_/php/similar_organizations.php"; ?>
+    <div class="spacing"></div>
+    <?php include "_/php/mission_box.php"; ?>
     <?php include "_/php/footer.php"; ?>
   </div> <!-- end container -->
   <?php include "_/php/javascript.php"; ?>
