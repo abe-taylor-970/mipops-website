@@ -18,9 +18,9 @@
         <div class="col-md-6 col-xs-12">
           <div class="col-md-12 border organizations hidden-small2" id="similar1">
             <a target=frame2 href="http://calpreservation.org/projects/audiovisual-preservation/">
-              <img src="img/CAVP_color.jpg" alt="California Audiovisual Preservation" class="img-responsive centered org-image">
+              <img src="img/CAVP_color.jpg" alt="California Audiovisual Preservation" class="img-responsive centered org-image2">
             </a>
-            <p>In partnership with eighty five libraries, archives and museums, the California Preservation Program is undertaking an urgently needed project to digitize, provide online access, and preserve historic California audiovisual recordings, creating a comprehensive online collection of film, video and audio recordings documenting California history.  California's audiovisual heritage must be saved before it is too late; historic analog recordings are threatened by fragile physical condition, format obsolescence, and lack of playback equipment.</p>
+            <p>In partnership with eighty five libraries, archives and museums, the California Preservation Program is undertaking an urgently needed project to digitize, provide online access, and preserve historic California audiovisual recordings, creating a comprehensive online collection of film, video and audio recordings documenting California history.</p>
           </div>
         </div>
         <div class="col-md-6 col-xs-12">
@@ -37,7 +37,7 @@
         <div class="col-md-6 col-xs-12">
           <div class="col-md-12 border organizations hidden-small2" id="similar3">
             <a target=frame2 href="http://www.danceheritage.org/">
-              <img src="img/DHClogo3.png" alt="Dance Heritage" class="img-responsive centered org-image">
+              <img src="img/DHC1.jpg" alt="Dance Heritage" class="img-responsive centered org-image">
             </a>
             <p>DHC is a national alliance of institutions holding significant collections of materials documenting the history of dance. Its mission is to preserve, make accessible, enhance and augment the materials that document the artistic accomplishments in dance of the past, present, and future.</p>
         </div>

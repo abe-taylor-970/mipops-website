@@ -15,7 +15,7 @@
   </div>
   <div class="col-md-2 col-xs-6">
     <a target=frame2 href="http://www.danceheritage.org/" class="thumbnail" id="danceheritage">
-      <img src="img/DHClogo3.png" alt="Dance Heritage" class="img-responsive">
+      <img src="img/DHC1.jpg" alt="Dance Heritage" class="img-responsive">
     </a>
   </div>
   <div class="col-md-2 col-xs-6">

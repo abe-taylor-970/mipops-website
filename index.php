@@ -10,8 +10,8 @@
 <body>
   <div class="full-width"> 
     <div class="container">
-    <?php include "_/php/header.php"; ?>
-    <?php include "_/php/top_bar.php"; ?> 
+      <?php include "_/php/header.php"; ?>
+      <?php include "_/php/top_bar.php"; ?> 
     </div><!-- container -->
   </div><!-- full-width-->
   <div class="container" id="main_container">

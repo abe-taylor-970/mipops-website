@@ -25,7 +25,6 @@
         <h2>About MIPoPS</h2>
         <ul>
           <li><a href="about.php">About us</a></li><p />
-          <li><a href="members.php">Members</a></li><p />
           <li><a href="faqs.php">FAQS</a></li><p />
           <li><a href="membership.php">Membership</a></li><p />
         </ul>

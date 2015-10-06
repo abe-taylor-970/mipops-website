@@ -20,7 +20,7 @@
     <div class="item"><a href="img/devices_and_cables_rotated.jpg"><img src="img/devices_and_cables_cropped.jpg" alt="devices and cables" class="img-responsive"></a></div>
     <div class="item"><a href="img/people4_rotated.jpg"><img src="img/people4_cropped.jpg" alt="people and devices interacting" class="img-responsive"></a></div>
     <div class="item"><a href="img/rack_rotated.jpg"><img src="img/rack_cropped.jpg" alt="rack" class="img-responsive"></a></div>
-    <div class="item"><a href="img/people5.jpg"><img src="img/people5.jpg" alt="person smiling through rack" class="img-responsive"></a></div>
+    <div class="item"><a href="img/people5.jpg"><img src="img/people5_cropped.jpg" alt="person smiling through rack" class="img-responsive"></a></div>
     <div class="item"><a href="img/screen3_rotated.jpg"><img src="img/screen3_cropped.jpg" alt="workstation" class="img-responsive"></a></div>
 	</div><!-- carousel-inner -->
 
