@@ -32,7 +32,7 @@
           <li><h3>Videotape Identification and Assessment Guide</h3>
             <p>Texas Commission on the Arts</p>
             <p><i>An indispensable visual guide to identify videotape formats</i></p>
-            <p><a target=frame2 href="dox/video.pdf">Video</a></p>
+            <p><a target=frame2 href="dox/TCoA_guide.pdf">TCoA Guide</a></p>
             <p>American Archive of Public Broadcasting Listening and Viewing Guide</p>
             <p><i>A helpful guide to efficiently and accurately identifying video content</i></p>
             <p><a target=frame2 href="dox/ListeningandViewingGuidelines.pdf">Listening and Viewing Guidelines</a></p>
@@ -88,9 +88,6 @@
           </li>
           <li><h3>A Primer on Codecs for Moving Image and Sound Archives</h3>
             <p><a target=frame2 href="dox/AVPS_Codec_Primer.pdf">AVPS Codec Primer</a></p>
-          </li>
-          <li><h3>Videotape Assessment and Identification Guide from Texas Commission on the Arts 2004</h3>
-            <p><a target=frame2 href="dox/TCoA_guide.pdf">TCoA Guide</a></p>
           </li>
         </ul>
       </div>

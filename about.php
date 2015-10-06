@@ -27,7 +27,7 @@
       </div>
       <div class="spacing"></div>
       <div class="row border center type2">
-        <h3>MIPoPS founding consortium members:</h3>
+        <h3>MIPoPS Steering Commitee:</h3>
       </div>
       <div class="spacing"></div>
       <div class="row">
