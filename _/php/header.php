@@ -19,7 +19,7 @@
                 <ul class="dropdown-menu">
                   <li><a href="visit.php">Visiting Us</a></li>
                   <li><a href="planning.php">Planning Your Project</a></li>
-                  <li><a href="access.php">Providing Access</a></li>
+                  <li><a href="access.php">Making Your Videos Accessible</a></li>
                 </ul>                    
               </li>
               <li class="dropdown"><a href="#" data-toggle="dropdown">Resources<span class="caret"></span></a>

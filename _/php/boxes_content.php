@@ -4,7 +4,7 @@
     <ul>
       <li><a href="visit.php">What to expect when you visit us</a></li><p />
       <li><a href="planning.php">Planning your project</a></li><p />
-      <li><a href="access.php">Providing Access</a></li><p />
+      <li><a href="access.php">Making Your Videos Accessible</a></li><p />
     </ul>
   </div>
   <div class="col-md-4 col-xs-12 hidden-small">
