@@ -18,6 +18,7 @@
     <div class="row type2 border" id="magnetic">
       <h1>The Magnetic Media Crisis</h1>
       <br />
+      <a href="img/magnetic_media_stack.jpg" class="right hidden-small3"><img src="img/magnetic_media_stack_scaled.jpg" alt="Magnetic Media" class="img-responsive" /></a>
       <p>Audiovisual objects everywhere are at a crisis point where they could be lost forever, but especially magnetic media. Tape manufacturers predicted 20 to 30 years of life expectancy, but media lifespan depends greatly on environmental conditions. Analog video recordings are reaching their lifespan. Heritage organizations have no choice except to digitize magnetic media for preservation. To not digitize magnetic media is tantamount to deaccessioning or destroying historical records.</p>
       <br />
       <p>Format obsolescence contributes to the crisis for archivists and others hoping to preserve their videotape. For example, Umatic and VHS tapes are no longer manufactured and BetaSP will soon be discontinued. Machines to play these formats are necessary in order to make preservation copies; they are becoming more scarce as are the skills to maintain and repair them.</p>
