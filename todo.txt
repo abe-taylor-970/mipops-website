@@ -8,10 +8,12 @@ Desktops : 992 px and up
 Large desktops : 1200 px and up
 
 TO DO:
+**) ADD PICTURES
+**) Change theme to black and white
+**) Add login
+**) Figure out donations page
 *)Get it to look nice on tablets
 *)Change menu so that it displays before clicking? 
 *)fix members.php to be evenly spaced on mobile
-*)fix about.php so that mission statement is not said twice
-*)fix organizations.php so that it gives details on the organizations
 *)fix contact.php so that map is responsive to mobile
 *)now that added responsive_iframe, does it work for video in video_blog.php?
