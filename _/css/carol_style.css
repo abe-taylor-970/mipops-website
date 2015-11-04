@@ -50,10 +50,10 @@ a:active {
   color: #DBC3A3; /* lighter tan */
 /*  color: tan; */
 }
-#faqs p {
+#faqs_text p {
   color: tan;
 }
-#faqs i {
+#faqs_text i {
   color:#E8DAC6; /* light tan */ 
 }
 /* END COLORS */

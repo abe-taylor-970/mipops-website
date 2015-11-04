@@ -15,7 +15,7 @@
   </div><!-- full-width-->
   <section class="container">
     <div class="spacing"></div>
-    <div class="row type2 border" id="faqs">
+    <div class="row type2 border" id="faqs_text">
       <h1>MIPoPS Frequently Asked Questions</h1>
       <br />
       <a href="img/big_tapes_and_tower.jpg" class="right hidden-small3"><img src="img/big_tapes_and_tower_scaled.jpg" alt="Big tape tower" class="img-responsive" /></a>
