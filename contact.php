@@ -17,8 +17,11 @@
     <div class="spacing"></div>
     <div class="row border" id="contact">
       <div class="col-lg-6 col-xs-12" id="address">
+        <br />
         <h3>You can contact MIPoPS by e-mailing <a href="mailto:info@mipops.org">info@mipops.org</a></h3>
+        <br />
         <h3>MIPoPS is located on third floor of Seattle City Hall</h3>
+        <br />
         <p><i>Seattle City Hall Suite 300<br />600 Fourth Ave.<br />Seattle, WA 98104</i></p>
       </div>
       <div class="col-lg-6 col-xs-12 Flexible-container">
