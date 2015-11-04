@@ -18,7 +18,6 @@
     <div class="row type2 border">
       <h1>Planning Your Videotape Project</h1>
       <br />
-      <a href="img/freeway_park.png" class="right hidden-small3"><img src="img/freeway_park_scaled.jpg" alt="Freeway Park" class="img-responsive" /></a>
       <p>As with all digitization projects, it is helpful to know what your goals are.</p>
       <p>A good place to start is knowing what you have.</p>
       <p>How many tapes do you have?</p>
@@ -26,6 +25,7 @@
       <p>Do you know what the content is?</p>
       <p>Have you done appraisal?</p>
       <p>Once you know what you have, having a catalog entry and an item number is helpful for tracking your video through the digitization process.<p>
+      <a href="img/freeway_park.png" class="right hidden-small3"><img src="img/freeway_park_scaled.jpg" alt="Freeway Park" class="img-responsive" /></a>
       <p>How many videotapes do you want to digitize?</p>
       <p>Are there any copyright restrictions?</p>
       <p>Which ones do you want to put up on Internet Archive?</p>
