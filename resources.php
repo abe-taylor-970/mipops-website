@@ -90,6 +90,10 @@
         <li><h3>A Primer on Codecs for Moving Image and Sound Archives</h3>
           <p><a target=frame2 href="dox/AVPS_Codec_Primer.pdf">AVPS Codec Primer</a></p>
         </li>
+        <li><h3>Guide for archiving digital video.</h3>
+          <p><i>This is a good resource for born digital materials.</i></p>
+          <p><a target=frame2 href="http://archiveguide.witness.org/">Archivists' Guide to Archiving Video</a></p>
+        </li> 
       </ul>
     </div>
     <?php include "_/php/footer.php"; ?>
