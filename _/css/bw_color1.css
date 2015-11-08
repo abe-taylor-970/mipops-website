@@ -1,12 +1,12 @@
 /* COLORS */
-body {
+body, #top_bar, .full-width {
   background-color: white;
 }
-#boxes_content .thumbnail, #top_bar, #video, #similar_organizations, .container-fluid, #blog, .border, .full-width {
-  background-color: white; 
+#boxes_content .thumbnail, #video, #similar_organizations, .container-fluid, #blog, .border {
+  background-color: #D7D7D7; /* light gray */
 }
 body, footer, #boxes_content .thumbnail .caption{
-  color: black; 
+  color: black;
 }
 h1, h2, h3, h4, .container {
   color: black;
@@ -54,6 +54,9 @@ a:active {
 }
 /* END COLORS */
 
+#jumbotron {
+  background: url("img/waveform.jpg");
+}
 /* when less than medium size */
 @media (max-width: 991px) {
   .hidden-small {

@@ -8,6 +8,7 @@
 </head>
 
 <body>
+  <?php include "_/php/jumbotron.php"; ?>
   <div class="full-width"> 
     <div class="container">
       <?php include "_/php/header.php"; ?>
