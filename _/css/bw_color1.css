@@ -27,7 +27,10 @@ a:active {
   color: black;
 }
 #blog_text {
-  background-color: #bFbFbF; /* medium light gray */
+  background-color: #BFBFBF; /* medium light gray */
+}
+#mission-in-about {
+  background-color: #C5C5C5; /* medium light gray */
 }
 #blog_text h4 {
   color: black;
@@ -172,6 +175,9 @@ body {
 }
 .inline {
   display: inline;
+}
+#mission-in-about {
+  margin-right: 20px;
 }
 
 /* font-size */

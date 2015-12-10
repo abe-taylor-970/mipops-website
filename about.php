@@ -18,9 +18,10 @@
     <div class="row border type2" id="about">
       <h1>About Us</h1>
       <br />
-      <h3 class="inline">Mission:</h3>
-      <h4 class="inline"><?php include "_/php/mission.php"; ?></h4>
-      <br />
+      <div id="mission-in-about">
+        <h3 class="inline">Mission:</h3>
+        <h4 class="inline"><?php include "_/php/mission.php"; ?></h4>
+      </div>
       <br />
       <p>Moving Image Preservation of Puget Sound (MIPoPS) supports video tape digitization and preservation by archives, museums, libraries, historical societies, science and art organizations, and related institutions that have analog video in their collections but have neither the resources nor expertise to address it. Because most institutions no longer possess video tape decks, they might not be able to identify the content of their tapes. MIPOPS provides guidance in identifying tape format, content and  condition and will advise on known, format-specific preservation issues. Based on this initial evaluation, MIPOPS can help determine whether use of the MIPOPS transfer station is appropriate for a collection.</p>
       <br />
