@@ -14,8 +14,11 @@ body, footer, #boxes_content .thumbnail .caption{
 h1, h2, h3, h4, .container {
   color: black;
 }
-a:link, a:visited {
-  color: #4D4D4D; /* dark gray */
+a:link {
+  color: #373737; /* dark gray */
+}
+a:visited {
+  color: #4F4F4F; /* dark gray */
 }
 a:hover, a:hover h2 {
   color: white;
