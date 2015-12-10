@@ -39,7 +39,7 @@ a:active {
   color: black;
 }
 #faqs_text p {
-  color: black;
+  color: #333333; /* dark gray */
 }
 #faqs_text i {
   color: black;
