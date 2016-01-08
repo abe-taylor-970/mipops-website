@@ -19,7 +19,6 @@
       <h1>MIPoPS Frequently Asked Questions</h1>
       <br />
       <a href="img/big_tapes_and_tower.jpg" class="right hidden-small3"><img src="img/big_tapes_and_tower_scaled.jpg" alt="Big tape tower" class="img-responsive" /></a>
-      <br />
       <i>What does MIPoPS stand for?</i>  
       <p>Moving Image Preservation of Puget Sound</p>
       <br />
@@ -27,7 +26,7 @@
       <p>MIPoPS is open to cultural institutions in the Puget Sound area with technical resources and staff able to preserve and provide access to digital files of moving images created at MIPoPS.</p>
       <br />
       <i>How much does MIPoPS cost?</i>
-      <p>There is a cost per item to digitize videotape. (Or whatever we come up with as the cost)</p>
+      <p>There is a cost per item to digitize videotape. (Or whatever we come up with as the cost) Please contact <u><a href="mailto:rachel@mipops.org">rachel@mipops.org</a></u>.</p>
       <br />
       <i>Does MIPoPS do 8mm or 16mm film?</i>
       <p>No, at this time MIPoPS is not able to transfer film to digital.</p>

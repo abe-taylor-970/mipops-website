@@ -8,6 +8,7 @@ Desktops : 992 px and up
 Large desktops : 1200 px and up
 
 TO DO:
+*) one less pic of libby in main slideshow 
 **) Add login
 **) Figure out donations page
 **) fix wide picture on planning.php page

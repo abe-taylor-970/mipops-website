@@ -23,6 +23,9 @@ a:visited {
 a:hover, a:hover h2 {
   color: white;
 }
+.type1 a:hover {
+  color: #A0A0A0; /* light gray */
+}
 a:active {
   color: black;
 }
@@ -229,3 +232,10 @@ footer {
     width: 100%;
     height: 100%;
 }
+
+/* Fix for IE with bootstrap */
+@-webkit-viewport   { width: device-width; }
+@-moz-viewport      { width: device-width; }
+@-ms-viewport       { width: device-width; }
+@-o-viewport        { width: device-width; }
+@viewport           { width: device-width; }
