@@ -9,10 +9,10 @@ Large desktops : 1200 px and up
 
 TO DO:
 *) one less pic of libby in main slideshow 
+*) get menu to stay on top when scrolling down in mobile
 **) Add login
 **) Figure out donations page
 **) fix wide picture on planning.php page
-**) get IE working
 *)Get it to look nice on tablets
 *)Change menu so that it displays before clicking? 
 *)fix members.php to be evenly spaced on mobile
