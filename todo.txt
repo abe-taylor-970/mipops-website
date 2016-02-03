@@ -8,6 +8,8 @@ Desktops : 992 px and up
 Large desktops : 1200 px and up
 
 TO DO:
+1) insert bios
+
 *) one less pic of libby in main slideshow 
 *) get menu to stay on top when scrolling down in mobile
 **) Add login
