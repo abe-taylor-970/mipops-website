@@ -71,6 +71,7 @@
     <div class="row">
       <div class="col-xs-12 border members hidden-small2">
         <h1>Anne Frantilla</h1>
+        <img src="img/bios/frantilla_cropped3.jpg" alt="Anne Frantilla" class="right-big img-responsive">
         <a href= "http://www.seattle.gov/cityarchives/" class="left">
           <img src="img/seattle_cropped.png" alt="Seattle Archives" class="img-responsive"/>
         </a>
