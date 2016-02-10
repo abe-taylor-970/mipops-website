@@ -2,10 +2,10 @@
 
 **********notes on pixels***********************
 use @media(min-width:NNNpx)[] and max-width to adjust width
-Phones : less than 768 px
-Tablets : 768 px and up
-Desktops : 992 px and up
-Large desktops : 1200 px and up
+Phones : less than 768 px (xs)
+Tablets : 768 px and up (s)
+Desktops : 992 px and up (md)
+Large desktops : 1200 px and up (l)
 
 TO DO:
 1) insert bios

@@ -22,12 +22,14 @@ $(document).ready(function() {
         one = "#similar3";
         two = "#similar4";
         sameHeight(one,two);        
-
+    }
+//if medium or larger
+    if ( windowWidth >= 992 ) {
         // set boxes to be same height
         var boxesHeights = $(".boxes").map(function() {
             return $(this).outerHeight(true);
         }).get(); 
-        maxbHeight = Math.max.apply(null, boxesHeights);
+        var maxbHeight = Math.max.apply(null, boxesHeights);
         $(".boxes").height(maxbHeight);
     }
 // if extra small screen
