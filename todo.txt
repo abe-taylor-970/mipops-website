@@ -8,7 +8,7 @@ Desktops : 992 px and up (md)
 Large desktops : 1200 px and up (l)
 
 TO DO:
-1) insert bios
+***) Get similar organizations to look right. There is some unused code in mipops.js about that.
 
 *) one less pic of libby in main slideshow 
 *) get menu to stay on top when scrolling down in mobile

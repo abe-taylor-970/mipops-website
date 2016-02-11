@@ -36,6 +36,7 @@
     <div class="row">
       <div class="col-xs-12 border members hidden-small2">
         <h1>Rachel Price</h1>
+        <img src="img/bios/rachel_cropped.jpg" alt="Rachel Price" class="right-big img-responsive">
         <a href="http://www.mipops.org" class="left">
           <img src="img/mipops_logo_small.jpg" alt="MIPoPS logo" class="img-responsive small-height"/>
         </a>
