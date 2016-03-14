@@ -8,8 +8,9 @@ Desktops : 992 px and up (md)
 Large desktops : 1200 px and up (l)
 
 TO DO:
-***) Get similar organizations to look right. There is some unused code in mipops.js about that.
-
+**) Get carousel to not move everything when it goes from slide to slide
+**) Get facebook icon added to menu
+*) Get similar organizations to look right. There is some unused code in mipops.js about that.
 *) one less pic of libby in main slideshow 
 *) get menu to stay on top when scrolling down in mobile
 **) Add login

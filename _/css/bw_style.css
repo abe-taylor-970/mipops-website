@@ -195,6 +195,9 @@ body {
 #mission-in-about {
   margin-right: 20px;
 }
+#facebook-icon {
+  height: 23px;
+}
 
 /* font-size */
 .type2, .members, .organizations, #address {
@@ -205,6 +208,9 @@ a {
 }
 .type1 a, .type2 a, #address a, .members a {
   font-size: 1em;
+}
+header {
+  font-size: 1.1em;
 }
 
 /* font-size and alignment */
