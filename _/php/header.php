@@ -27,7 +27,7 @@
                   <li><a href="magnetic.php">The Magnetic Media Crisis</a></li>
                   <li><a href="resources.php">Resources</a></li>
                   <li><a href="organizations.php">Similar Organizations</a></li>
-                  <li><a target=frame2 href="https://archive.org/details/@mipops">Internet Archives</a></li>
+                  <li><a target=frame2 href="https://archive.org/details/mipops">Internet Archive</a></li>
                 </ul>                    
               </li>
               <li class="dropdown"><a href="#" data-toggle="dropdown">About<span class="caret"></span></a>
