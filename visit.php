@@ -22,7 +22,7 @@
       <br />
       <p>Following is a guide to using the MIPoPS digitization station:</p>
       <br />
-      <a href="img/woman_adjusting_dial.jpg" class="right hidden-small3"><img src="img/woman_adjusting_dial_scaled.jpg" alt="Woman adjusting dial" class="img-responsive" /></a>
+      <a href="img/woman_adjusting_dial.jpg" class="float-right hidden-small3"><img src="img/woman_adjusting_dial_scaled.jpg" alt="Woman adjusting dial" class="img-responsive" /></a>
       <ul>
         <li>Workstation space is limited: contact MIPoPS at least two days in advance to schedule an appointment.</li>
         <li>MIPoPS is located on Floor 3 of City Hall, 600 Fourth Avenue, Seattle, 98014. Entrances are on Fourth and Fifth Avenues and on Cherry Street. Public transportation is the best option as parking in the vicinity is expensive, though there are several parking garages nearby.</li>

@@ -18,7 +18,7 @@
     <div class="row type2 border" id="faqs_text">
       <h1>MIPoPS Frequently Asked Questions</h1>
       <br />
-      <a href="img/big_tapes_and_tower.jpg" class="right hidden-small3"><img src="img/big_tapes_and_tower_scaled.jpg" alt="Big tape tower" class="img-responsive" /></a>
+      <a href="img/big_tapes_and_tower.jpg" class="float-right hidden-small3"><img src="img/big_tapes_and_tower_scaled.jpg" alt="Big tape tower" class="img-responsive" /></a>
       <i>What does MIPoPS stand for?</i>  
       <p>Moving Image Preservation of Puget Sound</p>
       <br />

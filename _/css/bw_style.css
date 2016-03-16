@@ -96,7 +96,7 @@ a:active {
   .org-image2 {
     height: 150px;
   } 
-  .right {
+  .float-right {
     padding-left: 10px;
   }
   .right-big {
@@ -171,11 +171,11 @@ body {
   margin-left: auto;
   margin-right: auto;
 }
-.right {
+.float-right {
   float: right;
   padding-right: 20px;
 }
-.left {
+.float-left {
   float: left;
   padding-right: 20px;
 }
@@ -255,3 +255,5 @@ footer {
 @-ms-viewport       { width: device-width; }
 @-o-viewport        { width: device-width; }
 @viewport           { width: device-width; }
+
+

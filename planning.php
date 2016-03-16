@@ -25,7 +25,7 @@
       <p>Do you know what the content is?</p>
       <p>Have you done appraisal?</p>
       <p>Once you know what you have, having a catalog entry and an item number is helpful for tracking your video through the digitization process.<p>
-      <a href="img/freeway_park.png" class="right hidden-small3"><img src="img/freeway_park_cropped_and_scaled.jpg" alt="Freeway Park" class="img-responsive" /></a>
+      <a href="img/freeway_park.png" class="float-right hidden-small3"><img src="img/freeway_park_cropped_and_scaled.jpg" alt="Freeway Park" class="img-responsive" /></a>
       <p>How many videotapes do you want to digitize?</p>
       <p>Are there any copyright restrictions?</p>
       <p>Which ones do you want to put up on Internet Archive?</p>
