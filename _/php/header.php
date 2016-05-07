@@ -37,7 +37,7 @@
                   <li><a href="membership.php">Membership</a></li>
                 </ul>
               </li>
-              <li><a href="https://www.facebook.com/MIPoPS-Moving-Image-Preservation-of-Puget-Sound-989656727792722/" class="pull-left"><img src="img/fb_logo_blue29.png" id="facebook-icon"></a>
+              <li><a target=frame2 href="https://www.facebook.com/MIPoPS-Moving-Image-Preservation-of-Puget-Sound-989656727792722/" class="pull-left"><img src="img/fb_logo_blue29.png" id="facebook-icon"></a>
             </ul> 
           </div> <!-- navbar-header -->
         </div><!-- container -->
