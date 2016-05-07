@@ -212,6 +212,9 @@ a {
 header {
   font-size: 1.1em;
 }
+#blog_section a {
+  font-size: 1.2em;
+}
 
 /* font-size and alignment */
 footer {
