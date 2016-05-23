@@ -23,6 +23,8 @@
     <?php include "_/php/similar_organizations.php"; ?>
     <div class="spacing"></div>
     <?php include "_/php/mission_box.php"; ?>
+    <div class="small_spacing"></div>
+    <?php include "_/php/4culture.php"; ?>
     <?php include "_/php/footer.php"; ?>
   </div> <!-- end container -->
   <?php include "_/php/javascript.php"; ?>

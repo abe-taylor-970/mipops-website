@@ -41,7 +41,7 @@ a:active {
 #blog_text h4 {
   color: black;
 }
-#mission_box p, #blog_text p, #address p, .members p, .organizations p, .type2 { 
+.small_box p, #blog_text p, #address p, .members p, .organizations p, .type2 { 
   color: black;
 }
 #faqs_text p {
@@ -86,6 +86,10 @@ a:active {
   }
   #xfr-stn {
     margin-top: 40px;
+  }
+  #four_culture {
+    display: inline-block;
+    vertical-align: middle;
   }
   #similar_organizations_text {
     margin-top: 30px;
@@ -148,7 +152,7 @@ body {
 .margin-right {
   padding-right: 10px;
 }
-#mission_box {
+.small_box {
   padding-top: 8px;
 }
 #similar_organizations {

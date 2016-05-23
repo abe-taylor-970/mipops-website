@@ -29,6 +29,8 @@
       <br />
     </div>
     <div class="spacing"></div>
+    <?php include "_/php/4culture2.php"; ?>
+    <div class="spacing"></div>
     <div class="row center">
       <h2><b>MIPoPS Steering Committee:</b></h2>
     </div><!-- end row -->
