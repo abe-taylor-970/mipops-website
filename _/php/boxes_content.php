@@ -14,7 +14,7 @@
         <ul>
           <li><a href="magnetic.php">The Magnetic Media Crisis</a></li><p />
           <li><a href="resources.php">Resources</a></li><p />
-          <li><a target=frame2 href="https://archive.org/details/mipops">Internet Archive</a></li>
+          <li><a target="frame2" href="https://archive.org/details/mipops">Internet Archive</a></li>
         </ul>
       </div><!-- end inside boxes-->
     </div><!-- end row -->
