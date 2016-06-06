@@ -8,6 +8,8 @@ Desktops : 992 px and up (md)
 Large desktops : 1200 px and up (l)
 
 TO DO:
+***) Make members area look nice
+*) Make all links absolute
 *) fix ... at end of blog text so it isn't in middle of text vertically would need to detect < and make sure a matching > and if not a matching > then trim off the end back to < and probably also detect </ to make sure all tags match.
 *) fix anchor tag in imported text so that it isn't displayed so big
 *) https: change to http: for internet archives link
