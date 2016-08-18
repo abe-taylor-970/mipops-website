@@ -217,6 +217,9 @@ header {
   font-size: 1.1em;
 }
 #blog_section a {
+  font-size: 1em;
+}
+#read_more a {
   font-size: 1.2em;
 }
 
