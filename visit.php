@@ -18,26 +18,15 @@
     <div class="row type2 border" id="visit">
       <h1>What to expect when you visit us</h1>
       <br />
-      <p>MIPoPS is a membership-based non-profit, and use of the MIPoPS digitization station requires a service agreement.  To become a MIPoPS member, please contact us.  Reviewing and answering the questions in <a href="planning.php"><u>Planning Your Project</u></a> will help you define your needs.</p>
-      <br />
-      <p>Following is a guide to using the MIPoPS digitization station:</p>
+      <p>See <a href="planning.php"><u>Planning Your Project</u></a> for help defining your needs and goals, what to bring to MIPoPS during your first meeting, and information about the digitizing process.</p>
       <br />
       <a href="img/woman_adjusting_dial.jpg" class="float-right hidden-small3"><img src="img/woman_adjusting_dial_scaled.jpg" alt="Woman adjusting dial" class="img-responsive" /></a>
       <ul>
-        <li>Workstation space is limited: contact MIPoPS at least two days in advance to schedule an appointment.</li>
-        <li>MIPoPS is located on Floor 3 of City Hall, 600 Fourth Avenue, Seattle, 98014. Entrances are on Fourth and Fifth Avenues and on Cherry Street. Public transportation is the best option as parking in the vicinity is expensive, though there are several parking garages nearby.</li>
-        <li>Check in with the reception desk for the Office of the City Clerk and we will escort you to the MIPoPS space.</li>
-        <li><b>Bring a portable hard drive formatted for your office environment - windows or mac.</b></li>
-        <li>Videos are digitized in <i>real time</i>; you might not want to bring more than you have time for.</li>
-        <li>Be sure to label your cartridge cases and hard drive with your institution's name.</li>
-        <li>Three primary steps included: <ol><li>digitizing video tape</li><li>selecting the correct preservation and access file formats for your institution</li><li>copying files onto your media.</li></ol></li>
-        <li>MIPoPS does not provide storage space for either analog objects or digital files. Be prepared to take your items with you at the end of the day.</li>
-        <li>Do as much appraisal as possible in advance.</li>
-        <li>If possible, tell us in advance which formats you'll be bringing in. We can digitize VHS, U-Matic, Betcam SP, Digital Betacam, Hi 8, Mini DV and DV Cam</li>
-        <li>If labels are not adhered well to your cassettes, please remove them. Have info about what's on the label written somewhere else, if you think you'll need it.</li>
-        <li>Refer to the document: "Preparing Video for Capture"</li>
-        <li>Let us know what file formats you would like your video transferred to. If you need formats other than mpeg4 and ffv1 please let us know ahead of time, as we will need to modify the ffmpeg digital migration script. Please email or call and we can discuss your needs.</li>
-        <li>Expect to work one-on-one with someone on your first visit; it won't be long before you'll be on your own, but even then there will be someone there to help if you need it.</li>
+        <li>Contact MIPoPS at least a week in advance to schedule an appointment.</li>
+        <li>MIPoPS is located on the 3<sup>rd</sup> floor of Seattle City Hall, 600 Fourth Avenue, Seattle, 98104. Entrances are on Fourth and Fifth Avenues, between James and Cherry.</li>
+        <li>Check in with the reception desk for the Office of the City Clerk on the 3<sup>rd</sup> Floor and we will escort you to the MIPoPS space.</li>
+        <li>As a non-profit, we differ in what we offer our fellow non-profit clients. We are not really a drop-off transfer house. Your organization sends a volunteer or staff person to participate in the process, which can include helping decide which tapes to transfer, a discussion of how to manage the files that are provided and as much hands-on digitizing as that person feels comfortable with. We also ask that at least some digitized files be put up at the<a href="https://archive.org/details/mipops">MIPoPS Internet Archive site</a>. See <a href="http://www.mipops.org/access.php">Making Your Videos Accessible</a>.</li>
+        <li>Please see <a href="http://www.mipops.org/members-area/mipops_guest_manual_5-19-2016.pdf">MIPoPS Guest Manual</a> (members only).</li>
       </ul>
     </div><!-- type 2 row -->
     <?php include "_/php/footer.php"; ?>
