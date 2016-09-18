@@ -5,7 +5,7 @@
       <li><a href="http://www.mipops.org/visit.php">What to expect when you visit us</a></li><p />
       <li><a href="http://www.mipops.org/planning.php">Planning your project</a></li><p />
       <li><a href="http://www.mipops.org/access.php">Making Your Videos Accessible</a></li><p />
-      <li><a href="http://www.mipops.org/members-area/index.php">Members Area</a></li><p />
+      <li><a href="https://www.mipops.org/members-area/index.php">Members Area</a></li><p />
     </ul>
   </div>
   <div class="col-md-4 col-xs-12 hidden-small">

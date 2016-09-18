@@ -31,10 +31,6 @@
     <div class="spacing"></div>
     <?php include "_/php/4culture2.php"; ?>
     <div class="spacing"></div>
-    <div class="row center">
-      <h2><b>MIPoPS Steering Committee:</b></h2>
-    </div><!-- end row -->
-    <div class="spacing"></div>
     <div class="row">
       <div class="col-xs-12 border members hidden-small2">
         <h1>Rachel Price</h1>
@@ -92,6 +88,18 @@
         </a>
         <p>Anna Briggs is a moving image archivist specialised in amateur and documentary film curation, film literacy, archival outreach and programming. She is currently a Ph.D. candidate at the Université François-Rabelais de Tours (France): the subject of her research is non-fiction moving images as archival and curatorial objects.  She has recently presented her research at the Library of Congress' Cultural Heritage Archive Symposium and at the 21st Visible Evidence international conference in Delhi.   Anna is also a lecturer, teaching  cataloguing and  documentary film analysis. She is an expert for the Education, Audiovisual and Culture Executive Agency of the European Commission, and is a board member of non-profit organisations Moving Image Preservation of Puget Sound and Xcape, a community recording studio in Saint-Pierre-des-Corps (France).</p>
         <p><a href="mailto:annab@mipops.org">annab@mipops.org</a></p>
+      </div>
+    </div><!-- end row -->
+    <div class="spacing"></div>
+    <div class="row">
+      <div class="col-xs-12 border members hidden-small2">
+        <h1>Libby Hopfauf</h1>
+        <img src="img/bios/HopfaufLibbyInfoPicCropped.jpg" alt="Libby Hopfauf" class="right-big img-responsive">
+        <a href="http://www.mipops.org" class="float-left">
+          <img src="img/mipops_logo_small.jpg" alt="MIPoPS logo" class="img-responsive small-height"/>
+        </a>
+        <p>Libby Savage Hopfauf is an audiovisual archivist at Moving Image Preservation of Puget Sound and Seattle Municipal Archives. She received a Masters degree in Library and Information Science from the University of Washington and a Bachelor of the Arts in Creative Writing with a minor in Sociology from Western Washington University.  When not doing her best to conquer the magnetic media crisis, she can be found writing poetry, building terrariums and observing musical or theatrical performances.</p>
+        <p><a href="mailto:libby@mipops.org">libby@mipops.org</a></p>
       </div>
     </div><!-- end row -->
     <?php include "_/php/footer.php"; ?>

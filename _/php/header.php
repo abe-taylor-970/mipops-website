@@ -20,7 +20,7 @@
                   <li><a href="http://www.mipops.org/visit.php">Visiting Us</a></li>
                   <li><a href="http://www.mipops.org/planning.php">Planning Your Project</a></li>
                   <li><a href="http://www.mipops.org/access.php">Making Your Videos Accessible</a></li>
-                  <li><a href="http://www.mipops.org/members-area/index.php">Members Area</a></li>
+                  <li><a href="https://www.mipops.org/members-area/index.php">Members Area</a></li>
                 </ul>                    
               </li>
               <li class="dropdown"><a href="#" data-toggle="dropdown">Resources<span class="caret"></span></a>
