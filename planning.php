@@ -18,21 +18,25 @@
     <div class="row type2 border">
       <h1>Planning Your Videotape Project</h1>
       <br />
-      <p>As with all digitization projects, it is helpful to know what your goals are.</p>
-      <p>A good place to start is knowing what you have.</p>
-      <p>How many tapes do you have?</p>
-      <p>What formats are they?</p>
-      <p>Do you know what the content is?</p>
-      <p>Have you done appraisal?</p>
-      <p>Once you know what you have, having a catalog entry and an item number is helpful for tracking your video through the digitization process.<p>
+      <p>Consider your goals for tackling the video in your collection. Here are some questions to ask and some information about the digitizing process.</p>
       <a href="img/freeway_park.png" class="float-right hidden-small3"><img src="img/freeway_park_cropped_and_scaled.jpg" alt="Freeway Park" class="img-responsive" /></a>
-      <p>How many videotapes do you want to digitize?</p>
-      <p>Are there any copyright restrictions?</p>
-      <p>Which ones do you want to put up on Internet Archive?</p>
-      <p>Having staff resources is important as the digitization process is time consuming.</p>
-      <p>For your first visit, plan to bring not more than two hours of program material.  The material can be on one tape or many.  Once you go through the process and understand the time commitment involved, you can go back to your shop and make a plan for finishing the project, one tape at a time!</p>
-      <p>Once the digitization is done you have not only the original videotape but associated digital files.  Where you store them and how you describe them will be very important when that first researcher asks for a copy.</p>
-      <p>Other MIPoPS members are a great resource!</p>
+      <ul>
+        <li>How many tapes do you have?</li>
+        <li>For your first visit, bring <u>two or three tapes</u> so we can assess the condition and perhaps take a look at the content. ALSO, bring a <u>portable hard drive</u> formatted for your office environment - Windows or Mac.</li>
+<!-- [add in calculations for hard drive size] should be added to last line -->
+        <li>Do you know the formats of your tapes? See <a href="http://www.mipops.org/dox/TCoA_guide.pdf">Videotape Identification and Assessment Guide</a>.</li>
+        <li>We can digitize VHS, U-Matic, Betcam SP, Digital Betacam, 1” open reel, D2, Hi 8, MiniDV and DVCam.</li>
+        <li>Do you know what the content is?</li>
+        <li>Have you done appraisal? We can appraise in-house, but it’s helpful to do what you can in advance.</li>
+        <li>If labels are not adhered well to your cassettes, please remove them, but keep the label or have info about what's on the label written somewhere else, if you think it’s accurate.</li>
+        <li>How many videotapes do you want to digitize? Having a catalog entry and an item number is helpful for tracking your video through the digitization process.</li>
+        <li>Videos are digitized in real time; you might not want to bring more than you have time for during your allotted time.</li>
+        <li>We will discuss the correct preservation and access file formats for your institution. Once the digitization is done you have not only the original videotape but associated digital files.</li>
+        <li>Consider how you describe and store the files you receive at your home institutions. We can talk to you about this.</li>
+        <li>Which digitized videos do you want to put on the Internet Archive? See <a href="http://www.mipops.org/access.php">Making Your Videos Accessible</a>.</li>
+        <li>Are there any copyright restrictions?</li>
+<!-- There should be another list item saying See "file formats" with hyperlink-->
+    </ul>
     </div><!-- type 2 row -->
     <?php include "_/php/footer.php"; ?>
   </section><!-- container -->
