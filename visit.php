@@ -23,9 +23,13 @@
       <a href="img/woman_adjusting_dial.jpg" class="float-right hidden-small3"><img src="img/woman_adjusting_dial_scaled.jpg" alt="Woman adjusting dial" class="img-responsive" /></a>
       <ul>
         <li>Contact MIPoPS at least a week in advance to schedule an appointment.</li>
+        <br />
         <li>MIPoPS is located on the 3<sup>rd</sup> floor of Seattle City Hall, 600 Fourth Avenue, Seattle, 98104. Entrances are on Fourth and Fifth Avenues, between James and Cherry.</li>
+        <br />
         <li>Check in with the reception desk for the Office of the City Clerk on the 3<sup>rd</sup> Floor and we will escort you to the MIPoPS space.</li>
+        <br />
         <li>As a non-profit, we differ in what we offer our fellow non-profit clients. We are not really a drop-off transfer house. Your organization sends a volunteer or staff person to participate in the process, which can include helping decide which tapes to transfer, a discussion of how to manage the files that are provided and as much hands-on digitizing as that person feels comfortable with. We also ask that at least some digitized files be put up at the<a href="https://archive.org/details/mipops">MIPoPS Internet Archive site</a>. See <a href="http://www.mipops.org/access.php">Making Your Videos Accessible</a>.</li>
+        <br />
         <li>Please see <a href="http://www.mipops.org/members-area/mipops_guest_manual_5-19-2016.pdf">MIPoPS Guest Manual</a> (members only).</li>
       </ul>
     </div><!-- type 2 row -->
