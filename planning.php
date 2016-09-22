@@ -23,10 +23,9 @@
       <ul>
         <li>How many tapes do you have?</li>
         <br />
-        <li>For your first visit, bring <u>two or three tapes</u> so we can assess the condition and perhaps take a look at the content. ALSO, bring a <u>portable hard drive</u> formatted for your office environment - Windows or Mac.</li>
-<!-- [add in calculations for hard drive size] should be added to last line -->
+        <li>For your first visit, bring <u>two or three tapes</u> so we can assess the condition and perhaps take a look at the content. Also, bring a 1TB <u>portable hard drive</u> formatted for your office environment - Windows or Mac.</li>
         <br />
-        <li>Do you know the formats of your tapes? See <a href="http://www.mipops.org/dox/TCoA_guide.pdf">Videotape Identification and Assessment Guide</a>.</li>
+        <li>Do you know the formats of your tapes? See <a target="frame2" href="http://www.mipops.org/dox/TCoA_guide.pdf">Videotape Identification and Assessment Guide</a>.</li>
         <br />
         <li>We can digitize VHS, U-Matic, Betcam SP, Digital Betacam, 1” open reel, D2, Hi 8, MiniDV and DVCam.</li>
         <br />
@@ -44,10 +43,11 @@
         <br />
         <li>Consider how you describe and store the files you receive at your home institutions. We can talk to you about this.</li>
         <br />
-        <li>Which digitized videos do you want to put on the Internet Archive? See <a href="http://www.mipops.org/access.php">Making Your Videos Accessible</a>.</li>
+        <li>Which digitized videos do you want to put on the Internet Archive? See <a target="frame2" href="http://www.mipops.org/access.php">Making Your Videos Accessible</a>.</li>
         <br />
         <li>Are there any copyright restrictions?</li>
-<!-- There should be another list item saying See "file formats" with hyperlink-->
+        <br />
+        <li>See <a target="frame2" href="http://www.mipops.org/members-area/OptionsforPreservationFiles.pdf">Options for Preservation Files</a> (members only).</li>
     </ul>
     </div><!-- type 2 row -->
     <?php include "_/php/footer.php"; ?>
