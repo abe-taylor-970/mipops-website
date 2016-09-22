@@ -5,7 +5,7 @@
 body, #top_bar, .full-width {
   background-color: white;
 }
-#boxes_content .thumbnail, #video, #similar_organizations, .container-fluid, #blog, .border {
+#boxes_content .thumbnail, #similar_organizations, .container-fluid, #blog, .border {
   background-color: #D7D7D7; /* light gray */
 }
 body, footer, #boxes_content .thumbnail .caption{
@@ -43,6 +43,9 @@ a:active {
 }
 .small_box p, #blog_text p, #address p, .members p, .organizations p, .type2 { 
   color: black;
+}
+.grey {
+  background-color: #D7D7D7; /* light gray */
 }
 #faqs_text p {
   color: #333333; /* dark gray */
@@ -113,15 +116,9 @@ a:active {
 
 /* when less than large size */
 @media (max-width: 1199px) {
-  #video {
-    padding-top: 20px;
-  }
 }
 /* when large size or greater */
 @media (min-width: 1200px) {
-  #video {
-    padding-top: 30px;
-  }
 }
 
 /* alignment */
@@ -236,7 +233,15 @@ footer {
 }
 
 /* misc */
-.border {
+#hero {
+  background-image: url(../../img/hero1.png);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+}
+#hero-container {
+}
+.border .testimonial {
   border: 1px solid #ddd;
   border-radius: 4px; 
 }

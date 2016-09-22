@@ -3,16 +3,16 @@ $(document).ready(function() {
     var windowWidth = $(window).width();
 //if large screen
     if ( windowWidth >= 1200 ) {
-        // set blog to be same height as video
+        // set carousel to be same height as video
         var videoHeight = $("#video").outerHeight(true);
-        var blogHeight = $("#blog").outerHeight(true);
+        var carouselHeight = $("#top_carousel").outerHeight(true);
 
-        var maxvdHeight = Math.max(videoHeight, blogHeight); 
-        if ( blogHeight < maxvdHeight ) {
-            $("#blog").height(maxvdHeight);
+        var maxvcHeight = Math.max(videoHeight, carouselHeight); 
+        if ( carouselHeight > maxvcHeight ) {
+            $("#top_carousel").height(maxvcHeight);
         }
-        if ( videoHeight < maxvdHeight ) {
-            $("#video").height(maxvdHeight - 30);
+        if ( videoHeight > maxvcHeight ) {
+            $("#video").height(maxvcHeight);
         }
 
         var one = "#similar1";
