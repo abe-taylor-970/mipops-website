@@ -15,11 +15,10 @@
     </div><!-- container -->
   </div><!-- full-width-->
   <div id="hero" class="jumbotron">
-    <div id="hero-container" class="container">
-      <div class="spacing"></div>
-      <div class="spacing"></div>
-      <div class="spacing"></div>
-      <h1>Moving Image Preservation of Puget Sound<h1>
+    <div id="outside-hero-container">
+      <div id="hero-container" class="container">
+        <p><?php include "_/php/mission.php"; ?></p>
+      </div>
     </div>
   </div><!-- jumbotron -->    
   </div>

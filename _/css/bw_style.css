@@ -53,6 +53,9 @@ a:active {
 #faqs_text i {
   color: black;
 }
+#hero-container h1, #hero-container p {
+  color: white;
+}
 /* END COLORS */
 
 /* when less than medium size */
@@ -140,6 +143,9 @@ body {
   padding-left: 20px;
   padding-top: 20px;
   padding-bottom: 20px;
+}
+.big_spacing {
+  height:120px;
 }
 .spacing  {
   height:30px;
@@ -234,12 +240,19 @@ footer {
 
 /* misc */
 #hero {
-  background-image: url(../../img/hero1.png);
+  background-image: url(../../img/hero5.jpg);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
+  padding-top: 24em;
 }
 #hero-container {
+}
+#outside-hero-container {
+  background-color: rgba(169,169,169,0.7);
+}
+.testimonial p {
+  font-family: "Times New Roman", Times, serif;
 }
 .border .testimonial {
   border: 1px solid #ddd;
