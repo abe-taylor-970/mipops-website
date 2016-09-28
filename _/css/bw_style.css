@@ -3,7 +3,7 @@
 
 /* COLORS */
 body, #top_bar, .full-width {
-  background-color: white;
+  background-color: rgba(169,169,169,1);
 }
 #boxes_content .thumbnail, #similar_organizations, .container-fluid, #blog, .border {
   background-color: #D7D7D7; /* light gray */
@@ -183,6 +183,9 @@ body {
   float: right;
   padding-right: 20px;
 }
+.text-right {
+  text-align: right;
+}
 .float-left {
   float: left;
   padding-right: 20px;
@@ -205,6 +208,12 @@ body {
 }
 #facebook-icon {
   height: 23px;
+}
+.padding {
+  padding-left:20px;
+  padding-top:20px;
+  padding-right:20px;
+  padding-bottom:5px;
 }
 
 /* font-size */
@@ -244,17 +253,18 @@ footer {
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
-  padding-top: 24em;
+  padding-top: 18em;
+  padding-bottom: 6em;
 }
 #hero-container {
 }
 #outside-hero-container {
   background-color: rgba(169,169,169,0.7);
 }
-.testimonial p {
+.times-roman {
   font-family: "Times New Roman", Times, serif;
 }
-.border .testimonial {
+.border {
   border: 1px solid #ddd;
   border-radius: 4px; 
 }
