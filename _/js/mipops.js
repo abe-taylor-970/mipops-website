@@ -3,18 +3,6 @@ $(document).ready(function() {
     var windowWidth = $(window).width();
 //if large screen
     if ( windowWidth >= 1200 ) {
-        // set carousel to be same height as video
-        var videoHeight = $("#video").outerHeight(true);
-        var carouselHeight = $("#top_carousel").outerHeight(true);
-
-        var maxvcHeight = Math.max(videoHeight, carouselHeight); 
-        if ( carouselHeight > maxvcHeight ) {
-            $("#top_carousel").height(maxvcHeight);
-        }
-        if ( videoHeight > maxvcHeight ) {
-            $("#video").height(maxvcHeight);
-        }
-
         var one = "#similar1";
         var two = "#similar2";
         sameHeight(one,two);        

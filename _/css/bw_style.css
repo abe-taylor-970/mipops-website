@@ -53,8 +53,11 @@ a:active {
 #faqs_text i {
   color: black;
 }
-#hero-container h1, #hero-container p {
+#hero-container p, #hero-container p em {
   color: white;
+}
+#outside-hero-container {
+  background-color: rgba(169,169,169,0.7);
 }
 /* END COLORS */
 
@@ -119,6 +122,9 @@ a:active {
 
 /* when less than large size */
 @media (max-width: 1199px) {
+  .hidden-small4 {
+     margin-bottom: 20px;
+  }  
 }
 /* when large size or greater */
 @media (min-width: 1200px) {
@@ -209,6 +215,10 @@ body {
 #facebook-icon {
   height: 23px;
 }
+#mipops-logo {
+  height: 45px;
+  padding-top: 10px;
+}
 .padding {
   padding-left:20px;
   padding-top:20px;
@@ -235,6 +245,9 @@ header {
 #read_more a {
   font-size: 1.2em;
 }
+#hero-container p em{
+  font-size: 1.5em;
+}
 
 /* font-size and alignment */
 footer {
@@ -255,11 +268,6 @@ footer {
   background-size: cover;
   padding-top: 18em;
   padding-bottom: 6em;
-}
-#hero-container {
-}
-#outside-hero-container {
-  background-color: rgba(169,169,169,0.7);
 }
 .times-roman {
   font-family: "Times New Roman", Times, serif;

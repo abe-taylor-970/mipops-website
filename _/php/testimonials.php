@@ -1,7 +1,7 @@
 <div class="row" id="testimonials">
   <div class="col-lg-8 col-md-12">
     <div class="row">
-      <div class="col-md-6">
+      <div class="col-md-6 hidden-small4">
         <div id="test1" class="padding grey testimonial">
           <p>"I work with the Kubota Garden Foundation to help preserve what's known about the Garden's history and development. Much of this lore has been passed down in oral tradition. MIPoPS has been a great in helping us transferring historically important video interviews to digital format. This enables us to use them to interpret the site, and provides backup for the information they contain."</p>
           <p class="text-right times-roman"><b>Ernie Dornfeld</b><br /><i>Kubota Garden</i></p>
@@ -16,7 +16,7 @@
     </div><!-- row -->
     <div class="spacing"></div>
     <div class="row">
-        <div class="col-md-12">
+        <div class="col-md-12 hidden-small4">
         <div class="padding grey testimonial">
           <p>"In my 35 years as an archivist – and one who is very active in professional circles – this is the most exciting development I've been associated with. This kind of "consortium" work can be a huge benefit to the profession and serve as a great model."</p>
           <p class="text-right times-roman"><b>Scott Cline</b><br /><i>retired Seattle City Archivist, from 1985-2016</i></p>

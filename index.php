@@ -17,7 +17,7 @@
   <div id="hero" class="jumbotron">
     <div id="outside-hero-container">
       <div id="hero-container" class="container">
-        <p><?php include "_/php/mission.php"; ?></p>
+        <p><?php include "_/php/mission_formatted.php"; ?></p>
       </div>
     </div>
   </div><!-- jumbotron -->    

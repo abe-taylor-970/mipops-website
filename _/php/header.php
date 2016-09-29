@@ -13,6 +13,7 @@
           </div>
           <div class="collapse navbar-collapse" id="collapse">
             <ul class="nav navbar-nav">
+              <li><img src="img/transparentMIPOPSlogoCroppedWhite.gif" id="mipops-logo"></li>
               <li><a href="http://www.mipops.org/index.php">Home</a></li>
               <li><a href="http://www.mipops.org/contact.php">Contact</a></li>
               <li class="dropdown"><a href="#" data-toggle="dropdown">Services<span class="caret"></span></a>
@@ -38,7 +39,7 @@
                   <li><a href="http://www.mipops.org/membership.php">Membership</a></li>
                 </ul>
               </li>
-              <li><a target="frame2" href="https://www.facebook.com/MIPoPS-Moving-Image-Preservation-of-Puget-Sound-989656727792722/" class="pull-left"><img src="http://www.mipops.org/img/fb_logo_blue29.png" id="facebook-icon"></a>
+              <li><a target="frame2" href="https://www.facebook.com/MIPoPS-Moving-Image-Preservation-of-Puget-Sound-989656727792722/" class="pull-left"><img src="http://www.mipops.org/img/fb_logo_blue29.png" id="facebook-icon"></a></li>
             </ul> 
           </div> <!-- navbar-header -->
         </div><!-- container -->
