@@ -9,6 +9,7 @@ Large desktops : 1200 px and up (l)
 
 
 TO DO:
+*) fix width of everything on main page so it all lines up. Maybe try setting padding:0px? Maybe bootstrap is doing it?
 *) Add re-directs for all .php and send instead to directory with index.php. Also, add custom .css file in each directory, and fix bw-style.css to be broad styles
 *) Add javascript and css file to make site work on IE10 Windows 8.
 *) Add this line :   <meta http-equiv="X-UA-Compatible" content="IE=edge"> at top of file near head

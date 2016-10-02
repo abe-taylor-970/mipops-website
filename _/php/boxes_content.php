@@ -28,6 +28,7 @@
           <li><a href="http://www.mipops.org/about.php">About us</a></li><p />
           <li><a href="http://www.mipops.org/faqs.php">FAQS</a></li><p />
           <li><a href="http://www.mipops.org/membership.php">Membership</a></li><p />
+          <li><a target="frame2" href="https://www.facebook.com/MIPoPS-Moving-Image-Preservation-of-Puget-Sound-989656727792722/">See us on <img src="http://www.mipops.org/img/fb_logo_blue29.png" id="facebook-icon"></a></li>
         </ul>
       </div><!-- end inside boxes-->
     </div><!-- end row -->

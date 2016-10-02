@@ -1,7 +1,7 @@
 <div class="content row">
   <div class="col-lg-12">
     <header class="clearfix">
-      <nav class="navbar navbar-default navbar-fixed-top navbar-inverse">
+      <nav class="navbar navbar-default navbar-fixed-top navbar-inverse navbar-right">
         <div class="container">
           <div class="navbar-header">
             <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#collapse">
@@ -12,8 +12,7 @@
             </button>
           </div>
           <div class="collapse navbar-collapse" id="collapse">
-            <ul class="nav navbar-nav">
-              <li><img src="img/transparentMIPOPSlogoCroppedWhite.gif" id="mipops-logo"></li>
+            <ul class="nav navbar-nav pull-right">
               <li><a href="http://www.mipops.org/index.php">Home</a></li>
               <li><a href="http://www.mipops.org/contact.php">Contact</a></li>
               <li class="dropdown"><a href="#" data-toggle="dropdown">Services<span class="caret"></span></a>
@@ -37,10 +36,10 @@
                   <li><a href="http://www.mipops.org/about.php">About us</a></li>
                   <li><a href="http://www.mipops.org/faqs.php">Frequently Asked Questions</a></li> 
                   <li><a href="http://www.mipops.org/membership.php">Membership</a></li>
+                  <li><a target="frame2" href="https://www.facebook.com/MIPoPS-Moving-Image-Preservation-of-Puget-Sound-989656727792722/"><img src="http://www.mipops.org/img/fb_logo_blue29.png" id="facebook-icon"></a></li>
+            </ul> 
                 </ul>
               </li>
-              <li><a target="frame2" href="https://www.facebook.com/MIPoPS-Moving-Image-Preservation-of-Puget-Sound-989656727792722/" class="pull-left"><img src="http://www.mipops.org/img/fb_logo_blue29.png" id="facebook-icon"></a></li>
-            </ul> 
           </div> <!-- navbar-header -->
         </div><!-- container -->
       </nav> 

@@ -1,3 +1,29 @@
 body {
-  padding-top: 50px; 
+  padding-top: 0px;
+}
+#outside-container {
+  padding-top: 50px;
+}
+#logo-container {
+  position:relative;
+  padding-left:0px;
+}
+#mipops-logo {
+  position: fixed;
+  visibility: visible;
+  height: 110px;
+  z-index: 1100;
+  opacity: 0.9;
+  top: 13px;
+  height: 80px;
+}
+@media (max-width: 300px) {
+  #mipops-logo {
+    height: 50px;
+  }
+}
+@media (max-width: 200px) {
+  #mipops-logo {
+    visibility: hidden;
+  }
 }
