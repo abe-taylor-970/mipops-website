@@ -9,12 +9,10 @@
 		<li data-target="#top_carousel" data-slide-to="5"></li>
 		<li data-target="#top_carousel" data-slide-to="6"></li>
 		<li data-target="#top_carousel" data-slide-to="7"></li>
-		<li data-target="#top_carousel" data-slide-to="8"></li>
 	</ol><!-- carousel-indicators -->
 
 	<div class="carousel-inner" role="listbox">
-		<div class="active item"><a href="http://www.mipops.org/img/magnetic_media_focussed.jpg"><img src="http://www.mipops.org/img/magnetic_media_focussed_cropped.jpg" alt="vhs" class="img-responsive carousel-image"></a></div>
-		<div class="item"><a href="http://www.mipops.org/img/Libby_with_screen.jpg"><img src="http://www.mipops.org/img/Libby_with_screen_cropped.jpg" alt="Libby looking at video analytics" class="img-responsive carousel-image"></a></div>
+		<div class="active item"><a href="http://www.mipops.org/img/Libby_with_screen.jpg"><img src="http://www.mipops.org/img/Libby_with_screen_cropped.jpg" alt="Libby looking at video analytics" class="img-responsive carousel-image"></a></div>
 		<div class="item"><a href="http://www.mipops.org/img/hands_paper_device_rotated.jpg"><img src="http://www.mipops.org/img/hands_paper_device_cropped.jpg" alt="hands paper device" class="img-responsive carousel-image"></a></div>
 		<div class="item"><a href="http://www.mipops.org/img/pink_hair_rotated.jpg"><img src="http://www.mipops.org/img/pink_hair_cropped.jpg" alt="pink_hair" class="img-responsive carousel-image"></a></div>
 		<div class="item"><a href="http://www.mipops.org/img/image_from_video.jpg"><img src="http://www.mipops.org/img/image_from_video_cropped.jpg" alt="Video image" class="img-responsive carousel-image"></a></div>
