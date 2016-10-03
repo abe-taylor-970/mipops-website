@@ -17,11 +17,13 @@ body {
   top: 13px;
   height: 80px;
 }
-@media (max-width: 300px) {
+/* when less than medium size */
+@media (max-width: 767px){
   #mipops-logo {
     height: 50px;
   }
 }
+/* when less than 200px */
 @media (max-width: 200px) {
   #mipops-logo {
     visibility: hidden;

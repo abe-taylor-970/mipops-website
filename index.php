@@ -15,7 +15,7 @@
       <div class="container">
         <?php include "_/php/header.php"; ?>
   <div id="logo-container" class="container">
-    <img src="img/mipops_logo_small.jpg" id="mipops-logo" alt="mipops-logo" class="img-responsive border">
+    <img src="http://www.mipops.org/img/mipops_logo_small.jpg" id="mipops-logo" alt="mipops-logo" class="img-responsive border">
   </div>
       </div><!-- container -->
     </div><!-- full-width-->
@@ -34,8 +34,6 @@
       <div class="spacing"></div>
       <?php include "_/php/testimonials.php"; ?>
       <div class="spacing"></div>
-      <?php include "_/php/mission_box.php"; ?>
-      <div class="small_spacing"></div>
       <?php include "_/php/4culture.php"; ?>
       <?php include "_/php/footer.php"; ?>
     </div> <!-- end container -->
