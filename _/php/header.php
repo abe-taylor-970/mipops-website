@@ -23,24 +23,23 @@
                   <li><a href="https://www.mipops.org/members-area/index.php">Members Area</a></li>
                 </ul>                    
               </li>
-              <li class="dropdown"><a href="#" data-toggle="dropdown">Resources<span class="caret"></span></a>
+              <li class="dropdown"><a href="#" data-toggle="dropdown">Digital Preservation<span class="caret"></span></a>
                 <ul class="dropdown-menu">
                   <li><a href="http://www.mipops.org/magnetic.php">The Magnetic Media Crisis</a></li>
                   <li><a href="http://www.mipops.org/resources.php">Resources</a></li>
                   <li><a href="http://www.mipops.org/organizations.php">Similar Organizations</a></li>
-                  <li><a target=frame2 href="https://archive.org/details/mipops">Internet Archive</a></li>
+                  <li><a target=frame2 href="https://archive.org/details/mipops">See Us On Internet Archive</a></li>
                 </ul>                    
               </li>
               <li class="dropdown"><a href="#" data-toggle="dropdown">About<span class="caret"></span></a>
                 <ul class="dropdown-menu">
-                  <li><a href="http://www.mipops.org/about.php">About us</a></li>
+                  <li><a href="http://www.mipops.org/about.php">About Us</a></li>
                   <li><a href="http://www.mipops.org/faqs.php">Frequently Asked Questions</a></li> 
-                  <li><a href="http://www.mipops.org/membership.php">Membership</a></li>
-                  <li><a target="frame2" href="https://www.facebook.com/MIPoPS-Moving-Image-Preservation-of-Puget-Sound-989656727792722/"><img src="http://www.mipops.org/img/fb_logo_blue29.png" id="facebook-icon"></a></li>
-                  <li><a href="http://www.mipops.org/membership.php">Membership</a></li>
-            </ul> 
-                </ul>
+                  <li><a target="frame2" href="http://mipops.tumblr.com/">See Rachel's Blog</a></li>
+                  <li><a target="frame2" href="https://www.facebook.com/MIPoPS-Moving-Image-Preservation-of-Puget-Sound-989656727792722/">See Us On <img src="http://www.mipops.org/img/fb_logo_blue29.png" id="facebook-icon"></a></li>
+                </ul> 
               </li>
+            </ul>
           </div> <!-- navbar-header -->
         </div><!-- container -->
       </nav> 

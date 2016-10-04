@@ -20,6 +20,14 @@ body {
   top: 13px;
   height: 80px;
 }
+/* fonts */
+.times-roman {
+  font-family: "Times New Roman", Times, serif;
+}
+.boxes h2 {
+  font-family: "Tahoma", Geneva, sans-serif;
+  text-align: center;
+}
 /* when less than medium size */
 @media (max-width: 767px){
   #mipops-logo {

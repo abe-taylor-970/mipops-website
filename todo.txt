@@ -39,3 +39,7 @@ DETAILS:
   *)now that added responsive_iframe, does it work for video in video_blog.php?
   *) Change menu so that it displays before clicking? 
 
+NOTES
+-----
+
+*) took out Membership link in about
