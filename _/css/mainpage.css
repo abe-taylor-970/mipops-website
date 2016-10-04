@@ -1,6 +1,9 @@
 body {
   padding-top: 0px;
 }
+body {
+  background-color: rgba(169,169,169,1);
+}
 #outside-container {
   padding-top: 50px;
 }

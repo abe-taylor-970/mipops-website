@@ -1,34 +1,41 @@
--fix blog update so that it works for pictures
-
 **********notes on pixels***********************
 use @media(min-width:NNNpx)[] and max-width to adjust width
-Phones : less than 768 px (xs)
-Tablets : 768 px and up (s)
-Desktops : 992 px and up (md)
-Large desktops : 1200 px and up (l)
+
+less than 544 px (xs)
+544  px and up (s)
+768  px and up (md)
+992  px and up (l)
+1200 px and up (xl)
 
 
-TO DO:
-*) fix width of everything on main page so it all lines up. Maybe try setting padding:0px? Maybe bootstrap is doing it?
-*) Add re-directs for all .php and send instead to directory with index.php. Also, add custom .css file in each directory, and fix bw-style.css to be broad styles
-*) Add javascript and css file to make site work on IE10 Windows 8.
-*) Add this line :   <meta http-equiv="X-UA-Compatible" content="IE=edge"> at top of file near head
-*) for above two, see jumbotron example on getbootstrap.com 
-*) Make members area look nice
-*) fix ... at end of blog text so it isn't in middle of text vertically would need to detect < and make sure a matching > and if not a matching > then trim off the end back to < and probably also detect </ to make sure all tags match.
-*) fix anchor tag in imported text so that it isn't displayed so big
-*) https: change to http: for internet archives link
-*) Get similar organizations to look right. There is some unused code in mipops.js about that.
-*) one less pic of libby in main slideshow 
-*) get menu to stay on top when scrolling down in mobile
-**) Add login
-**) Figure out donations page
-**) fix wide picture on planning.php page
-*)Get it to look nice on tablets
-*)Change menu so that it displays before clicking? 
-*)fix members.php to be evenly spaced on mobile
-*)fix contact.php so that map is responsive to mobile
-*)now that added responsive_iframe, does it work for video in video_blog.php?
+TO DO
+-----
+MAIN:
+  **) Add re-directs for all .php and send instead to directory with index.php. Also, add custom .css file in each directory, and fix bw-style.css to be broad styles
+  *) consistency of box area and menu, like change text to "visiting us" change planning your project in boxes to by "Planning your Project" capital. fix "Resources" match up to boxes area. Should change boxes to be Resources and add tab for similar organizations. Entire menu and boxes area should match.
+  *) Add link to blog in menu under about and in boxes
+  *) when rachel updates blog, use video from blog for mipops montage and put text underneath to say go see Rachel's blog
+  *) Add search for site
+  *) fix width of everything on main page so it all lines up. Maybe try setting padding:0px? Maybe bootstrap is doing it?
+  *) fix re-sizing of .boxes with javascript so it is done with table in css instead
+  *) make size of carousel work on tablet size (fill screen)
+  *) Make members area look nice
+  *) Add donations link? look into it and see whether to go thru paypal or another way
+  *) will be changing members and membership area to be new name.
 
-x) too much Libby
-x) take screenshots of website, then send to Rachel
+DETAILS:
+  *) fix blog update so that it works for pictures
+  *) fix ... at end of blog text so it isn't in middle of text vertically would need to detect < and make sure a matching > and if not a matching > then trim off the end back to < and probably also detect </ to make sure all tags match.
+  *) For below two, see jumbotron example on getbootstrap.com
+    1) Add javascript and css file to make site work on IE10 Windows 8.
+    2) Add this line :   <meta http-equiv="X-UA-Compatible" content="IE=edge"> at top of file near head
+  *) fix anchor tag in imported text so that it isn't displayed so big
+  *) https: change to http: for internet archives link
+  *) check if similar organizations looks right. There is some unused code in mipops.js about that.
+  *) look at slideshow and see if needs to be adjusted. maybe one less pic of libby in main slideshow
+  *) check out it would look on tablets
+  *) fix members.php to be evenly spaced on mobile
+  *) fix contact.php so that map is responsive to mobile
+  *)now that added responsive_iframe, does it work for video in video_blog.php?
+  *) Change menu so that it displays before clicking? 
+

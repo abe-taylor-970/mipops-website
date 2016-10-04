@@ -2,8 +2,8 @@
 /* type2: regular box with border */
 
 /* COLORS */
-body, #top_bar, .full-width {
-  background-color: rgba(169,169,169,1);
+body, #top_bar {
+  background-color: white;
 }
 #boxes_content .thumbnail, #similar_organizations, .container-fluid, #blog, .border {
   background-color: #D7D7D7; /* light gray */
