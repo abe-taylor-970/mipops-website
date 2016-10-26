@@ -1,3 +1,0 @@
-end: 2:38pm-3:22pm 10.4.16 Matched boxes to menu. Added Rachel's Blog link.
-begin: 3:28-3:48pm 10.4.16 fixed boxes to match width.
-begin: 3:54-4:02pm 10.4.16 fixed appearance of Headers in boxes.

@@ -11,14 +11,11 @@ less than 544 px (xs)
 TO DO
 -----
 MAIN:
+  1) fix re-sizing of .boxes with javascript so it is done with table in css instead
   **) Add re-directs for all .php and send instead to directory with index.php. Also, add custom .css file in each directory, and fix bw-style.css to be broad styles
-  *) consistency of box area and menu, like change text to "visiting us" change planning your project in boxes to by "Planning your Project" capital. fix "Resources" match up to boxes area. Should change boxes to be Resources and add tab for similar organizations. Entire menu and boxes area should match.
-  *) Add link to blog in menu under about and in boxes
   *) when rachel updates blog, use video from blog for mipops montage and put text underneath to say go see Rachel's blog
   *) Add search for site
   *) fix width of everything on main page so it all lines up. Maybe try setting padding:0px? Maybe bootstrap is doing it?
-  *) fix re-sizing of .boxes with javascript so it is done with table in css instead
-  *) make size of carousel work on tablet size (fill screen)
   *) Make members area look nice
   *) Add donations link? look into it and see whether to go thru paypal or another way
   *) will be changing members and membership area to be new name.
