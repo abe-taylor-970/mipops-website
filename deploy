@@ -2,12 +2,12 @@
 # My first script
 
 echo "Deploying..."
-sudo cp -a _/php/. /opt/lampp/htdocs/_/php/
-sudo cp -a _/css/. /opt/lampp/htdocs/_/css/
-sudo cp -a _/js/. /opt/lampp/htdocs/_/js/
-sudo cp -a img/. /opt/lampp/htdocs/img/
-sudo cp -a dox/. /opt/lampp/htdocs/dox/
-sudo cp -a members-area/. /opt/lampp/htdocs/members-area/
+sudo cp -a _/php/. /opt/lampp/htdocs/mipops/_/php/
+sudo cp -a _/css/. /opt/lampp/htdocs/mipops/_/css/
+sudo cp -a _/js/. /opt/lampp/htdocs/mipops/_/js/
+sudo cp -a img/. /opt/lampp/htdocs/mipops/img/
+sudo cp -a dox/. /opt/lampp/htdocs/mipops/dox/
+sudo cp -a members-area/. /opt/lampp/mipops/htdocs/members-area/
 
-sudo cp ./* /opt/lampp/htdocs/
-sudo chmod -R 755 /opt/lampp/htdocs/
+sudo cp ./* /opt/lampp/mipops/htdocs/
+sudo chmod -R 755 /opt/mipops/lampp/htdocs/
