@@ -11,15 +11,6 @@ $(document).ready(function() {
         two = "#similar4";
         sameHeight(one,two);        
     }
-//if medium or larger
-    if ( windowWidth >= 992 ) {
-        // set boxes to be same height
-        var boxesHeights = $(".boxes").map(function() {
-            return $(this).outerHeight(true);
-        }).get(); 
-        var maxbHeight = Math.max.apply(null, boxesHeights);
-        $(".boxes").height(maxbHeight);
-    }
 // if extra small screen
     if ( windowWidth < 768 ) {
         document.getElementById("main_iframe").height = 225;

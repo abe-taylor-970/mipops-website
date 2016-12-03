@@ -87,8 +87,8 @@ a:active {
     display: block;
   }  
 }
-/* when less than medium size */
-@media (max-width: 767px){
+/* when greater than medium size */
+@media (min-width: 768px){
 }
 
 /* when large size or greater */
@@ -129,6 +129,27 @@ a:active {
     padding-left: 10px;
     float: right;
     padding-right: 20px; 
+  }
+  #boxes_content {
+    display: -webkit-box;      /* OLD - iOS 6-, Safari 3.1-6 */
+    display: -moz-box;         /* OLD - Firefox 19- (buggy but mostly works) */
+    display: -ms-flexbox;      /* TWEENER - IE 10 */
+    display: -webkit-flex;     /* NEW - Chrome */
+    display: flex;             /* NEW, Spec - Opera 12.1, Firefox 20+ */
+  }
+  .boxes {
+    flex-direction: column;
+    -webkit-box-flex: 1;      /* OLD - iOS 6-, Safari 3.1-6 */
+    -moz-box-flex: 1;         /* OLD - Firefox 19- */
+    -webkit-flex: 1;          /* Chrome */
+    -ms-flex: 1;              /* IE 10 */
+    flex: 1;                  /* NEW, Spec - Opera 12.1, Firefox 20+ */
+  } 
+  #box1 {
+    margin-right: 20px;
+  }
+  #box3 {
+    margin-left: 20px;
   }
 }
 
@@ -283,6 +304,7 @@ footer {
 
 
 /* misc */
+
 #hero {
   background-image: url(http://www.mipops.org/img/hero5_lo_res.jpg);
   background-repeat: no-repeat;
