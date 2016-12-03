@@ -1,21 +1,7 @@
 $(document).ready(function() {
 //Set window heights and widths
     var windowWidth = $(window).width();
-//if large screen
-    if ( windowWidth >= 1200 ) {
-        var one = "#similar1";
-        var two = "#similar2";
-        sameHeight(one,two);        
-
-        one = "#similar3";
-        two = "#similar4";
-        sameHeight(one,two);        
-    }
-// if extra small screen
-    if ( windowWidth < 768 ) {
-        document.getElementById("main_iframe").height = 225;
-        document.getElementById("main_iframe").width = 300;
-    }
+    reSizing();
 //Deal with IE versions less than 11
   var IE = (function () {
       "use strict";
@@ -64,7 +50,24 @@ if (navigator.userAgent.match(/IEMobile\/10\.0/)) {
   document.querySelector('head').appendChild(msViewportStyle)
 }
 });
+function reSizing() {
+//Set window heights and widths
+    var windowWidth = $(window).width();
+//if large screen
+    if ( windowWidth >= 1200 ) {
+        var one = "#similar1";
+        var two = "#similar2";
+        sameHeight(one,two);        
 
+        one = "#similar3";
+        two = "#similar4";
+        sameHeight(one,two);        
+    }
+// if extra small screen
+    if ( windowWidth < 544 ) {
+        document.getElementById("main_iframe").height = 300;
+    }
+}
 function sameHeight(first, second) {
         var firstHeight = $(first).outerHeight(true);
         var secondHeight = $(second).outerHeight(true);
