@@ -15,7 +15,7 @@
         <ul>
           <li><a href="http://www.mipops.org/magnetic.php">The Magnetic Media Crisis</a></li><p />
           <li><a href="http://www.mipops.org/resources.php">Resources</a></li><p />
-          <li><a href="http://www.mipops.org/similar.php">Similar Organizations</a></li><p />
+          <li><a href="http://www.mipops.org/organizations.php">Similar Organizations</a></li><p />
           <li><a target="frame2" href="https://archive.org/details/mipops">See Us On Internet Archive</a></li>
         </ul>
   </div>
