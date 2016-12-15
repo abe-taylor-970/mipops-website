@@ -251,7 +251,7 @@ body {
 #mission-in-about {
   margin-right: 20px;
 }
-#facebook-icon {
+.facebook-icon, .twitter-icon {
   height: 23px;
 }
 .padding {

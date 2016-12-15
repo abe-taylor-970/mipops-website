@@ -26,7 +26,7 @@
           <li><a href="http://www.mipops.org/about.php">About Us</a></li><p />
           <li><a href="http://www.mipops.org/faqs.php">Frequently Asked Questions</a></li><p />
           <li><a target="frame2" href="http://mipops.tumblr.com/">See Rachel's Blog</a></li><p />
-          <li><a target="frame2" href="https://www.facebook.com/MIPoPS-Moving-Image-Preservation-of-Puget-Sound-989656727792722/">See Us On <img src="http://www.mipops.org/img/fb_logo_blue29.png" id="facebook-icon"></a></li>
+          <li><a target="frame2" href="https://www.facebook.com/MIPoPS-Moving-Image-Preservation-of-Puget-Sound-989656727792722/">See us on <img src="http://www.mipops.org/img/fb_logo_blue29.png" class="facebook-icon"></a><a target="frame2" href="https://twitter.com/mipops_seattle"> or on <img src="img/Twitter_Logo_White_On_Blue.png" class="twitter-icon"></a></li>
         </ul>
   </div>
 </div><!-- end nested row 3a -->
