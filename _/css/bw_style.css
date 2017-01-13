@@ -170,6 +170,10 @@ body {
 #video, #top_carousel, #carousel-main-page {
   padding: 0px;
 }
+#donate-boxes {
+  margin-top: 10px;
+}
+
 #blog_text {
   padding-left: 5px;
   padding-right: 5px;
