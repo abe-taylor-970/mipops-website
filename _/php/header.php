@@ -12,7 +12,6 @@
             </button>
           </div>
           <div class="collapse navbar-collapse" id="collapse">
-
             <ul class="nav navbar-nav pull-right">
               <li><a href="http://www.mipops.org/index.php">Home</a></li>
               <li><a href="http://www.mipops.org/contact.php">Contact</a></li>
@@ -29,7 +28,7 @@
                   <li><a href="http://www.mipops.org/magnetic.php">The Magnetic Media Crisis</a></li>
                   <li><a href="http://www.mipops.org/resources.php">Resources</a></li>
                   <li><a href="http://www.mipops.org/organizations.php">Similar Organizations</a></li>
-                  <li><a target=frame2 href="https://archive.org/details/mipops">See Us On Internet Archive</a></li>
+                  <li><a target="frame2" href="https://archive.org/details/mipops">See Us On Internet Archive</a></li>
                 </ul>                    
               </li>
               <li class="dropdown"><a href="#" data-toggle="dropdown">About<span class="caret"></span></a>
@@ -41,6 +40,12 @@
                   <li><a target="frame2" href="https://twitter.com/mipops_seattle"> or on <img src="http://www.mipops.org/img/Twitter_Logo_White_On_Blue.png" class="twitter-icon"></a></li>
                   <li><a target="frame2" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=5KDGY2SJ6WQVA">Support us! <img src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif"></a></li>
                 </ul> 
+              </li>
+              <li>
+                <form class="navbar-form" id="search" method="get" action="http://www.mipops.org/search/search.pl">
+                  <input name="Terms" id="fdse_TermsEx" />
+                  <input type="submit" value="Search" />
+                </form>
               </li>
             </ul>
           </div> <!-- navbar-header -->

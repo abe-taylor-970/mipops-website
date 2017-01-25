@@ -1,0 +1,26 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+	<title>Search on <% if terms %>: %terms% <% end if %> - MIPoPS</title>
+	<% if terms %><meta name="robots" content="index,nofollow" />
+	<% end if %><meta http-equiv="Content-Type" content="%content_type%" />
+	<meta name="version" content="%VERSION%" />
+	<meta name="description" content="Site search engine" />
+  <!--#include file="style.inc" -->
+  
+  <!-- Bootstrap and my styles -->
+  <link href="../_/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+  <link href="../_/css/bw_style.css" rel="stylesheet" type="text/css" />
+  <script src="../_/js/respond.min.js"></script>
+</head>
+<body dir="%dir%">
+  <div class="full-width"> 
+    <div class="container">
+    <div w3-include-html="../_/php/header.php"></div>
+    <div w3-include-html="../_/php/top_bar_copy.html"></div>
+    </div><!-- container -->
+  </div><!-- full-width-->
+  <div class="container">
+    <div class="spacing"></div>
+    <div class="row border type2" id="search_results">
+

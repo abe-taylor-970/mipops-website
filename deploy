@@ -7,6 +7,13 @@ sudo cp -a _/js/. /opt/lampp/htdocs/mipops/_/js/
 sudo cp -a img/. /opt/lampp/htdocs/mipops/img/
 sudo cp -a dox/. /opt/lampp/htdocs/mipops/dox/
 sudo cp -a members-area/. /opt/lampp/htdocs/mipops/members-area/
+#sudo cp -a search/. /opt/lampp/htdocs/mipops/search/
+sudo cp -a search/searchdata/templates/. /opt/lampp/htdocs/mipops/search/searchdata/templates/
 
 sudo cp ./* /opt/lampp/htdocs/mipops
-sudo chmod -R 755 /opt/lampp/htdocs/mipops
+sudo find /opt/lampp/htdocs/mipops -type d -exec chmod 755 {} +
+sudo find /opt/lampp/htdocs/mipops -type f -exec chmod 644 {} +
+sudo chmod +x /opt/lampp/htdocs/mipops/search/setperms.sh
+cd /opt/lampp/htdocs/mipops/search
+sudo ./setperms.sh
+cd ~/Development/mipops
