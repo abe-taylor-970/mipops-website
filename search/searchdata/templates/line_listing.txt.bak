@@ -4,6 +4,7 @@
 
 	<dd class="sr">
 
+		%Description%<br />
 
 		<b>URL:</b> %url% - %Size% - %Day% %Month% %Year%
 

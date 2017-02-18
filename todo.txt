@@ -11,8 +11,8 @@ less than 544 px (xs)
 TO DO
 -----
 MAIN:
-  ***) add search to site
-  *) put text underneath video from blog to say go see Rachel's blog
+  *) fix video I uploaded about screening night so it works on mobile... wtf?
+  *) change line_listing.txt so displays some context or content from each page found
   *) Check analytics for web page and see what browsers people are using. Also, look at all the stats.
   *) Change all pages so they have grey background and light grey boxes, just like main page. Will have to change logo to be white transparent, or black on white, and change main text to be white
   *) fix width testimonials on main page so it all lines up. Maybe try setting padding:0px? Maybe bootstrap is doing it?
@@ -39,5 +39,6 @@ DETAILS:
 
 NOTES
 -----
+*) search has two pages that need to be adjusted if any changes occur to them. One is top_bar.php (if any changes occur, need to change top_bar_copy.html). The other is javascript.php (if any changes occur, need to change footer.htm under search)
+*) Need to re-index site if any pages are added or changed. When doing this, need to delete the link to index.php (since it is a duplicate)
 
-*) took out Membership link in about

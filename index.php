@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Moving Image Preservation of Puget Sound</title>
   <?php include "_/php/bootstrap.php"; ?>
-  <link rel="stylesheet" type="text/css" href="_/css/mainpage.css">
+  <link rel="stylesheet" type="text/css" href="_/css/mainpage.css" />
 </head>
 
 

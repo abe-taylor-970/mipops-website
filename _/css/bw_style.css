@@ -24,7 +24,7 @@ a:hover, a:hover h2 {
   color: white;
 }
 .type1 a:hover {
-  color: #A0A0A0; /* light gray */
+  color: white;
 }
 a:active {
   color: black;
@@ -58,6 +58,9 @@ a:active {
 }
 #outside-hero-container {
   background-color: rgba(169,169,169,0.7);
+}
+.blue-link-inside a {
+  color: #0645AD; /* blue */
 }
 /* END COLORS */
 
@@ -161,17 +164,42 @@ a:active {
   #search {
     margin-bottom: 10px;
   }
+  #video {
+    height: 660px; 
+  }
 }
-/* when extra-large size or smaller */
+/* when extra-large size or bigger */
 @media (min-width: 1200px) {
     #search {
       margin-top: 10px;
     }
+    #video {
+      height: 405px;
+    }
+}
+/* additional when less than large size */
+@media (max-width: 991px) {
+  #video {
+    height: 562.5px; 
+  }
+}
+/* additional when less than small size */
+@media (max-width: 650px){
+  #video {
+    height: 470px; 
+  }
+}
+/* additional when less than small size */
+@media (max-width: 500px){
+  #video {
+    height: 400px; 
+  }
 }
 /* alignment */
 body {
   padding-top: 70px; 
 }
+
 #video, #top_carousel, #carousel-main-page {
   padding: 0px;
 }
@@ -295,6 +323,9 @@ header {
 #blog_section a {
   font-size: 1em;
 }
+.normal-size {
+  font-size: 1em;
+}
 #read_more a {
   font-size: 1.2em;
 }
@@ -327,6 +358,11 @@ footer {
 .border {
   border: 1px solid #ddd;
   border-radius: 4px; 
+}
+.border-line {
+  padding: 5px;
+  border: 1px solid #D7D7D7;
+  border-top: 0;
 }
 .carousel-indicators li {
   visibility: hidden;
