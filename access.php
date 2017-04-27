@@ -15,10 +15,10 @@
   </div><!-- full-width-->
   <div class="container">
     <div class="spacing"></div>
-    <div class="row type2 border" id="access">
+    <div class="row side-margin type2 border" id="access">
       <h1>Making Your Videos Accessible</h1>
       <br />
-      <a href="img/woman_with_screens.jpg" class="float-right hidden-small3"><img src="img/woman_with_screens_scaled.jpg" alt="Woman with Screens" class="img-responsive" /></a>
+      <a href="http://www.mipops.org/img/woman_with_screens.jpg" class="float-right hidden-small3"><img src="http://www.mipops.org/img/woman_with_screens_scaled.jpg" alt="Woman with Screens" class="img-responsive" /></a>
       <p>MIPoPS provides free public access to members' digitized videos through the <a target=frame2 href="https://archive.org/details/@mipops"><u>Internet Archive</u></a>. Including your videos in the MIPoPS Internet Archive collection expands public access to your videos and to your institution.</p>
       <p>A second and significant benefit of using the Internet Archive is that a copy of your videos will be stored and preserved by the Internet Archive, which is committed to preservation of Internet content for posterity.  Institutions without the resources to manage their own digital repositories will at least know that a copy of their digitized content will be preserved and accessible into the future.</p>
       <p>Digitized videos can also be shared on your institution's own streaming site or via popular video streaming services, such as YouTube and Vimeo.</p>

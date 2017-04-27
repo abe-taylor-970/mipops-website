@@ -15,7 +15,7 @@
   </div><!-- full-width-->
   <section class="container">
     <div class="spacing"></div>
-    <div class="row type2 border">
+    <div class="row side-margin type2 border">
       <h1>Planning Your Videotape Project</h1>
       <br />
       <p>Consider your goals for tackling the video in your collection. Here are some questions to ask and some information about the digitizing process.</p>

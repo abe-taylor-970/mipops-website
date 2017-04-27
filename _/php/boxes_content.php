@@ -1,4 +1,4 @@
-<div class="row" id="boxes_content">
+<div class="row side-margin" id="boxes_content">
   <div class="col-md-4 col-xs-12 border boxes hidden-small" id="box1">
     <h2>Services</h2>
     <div class="smaller_spacing"></div>

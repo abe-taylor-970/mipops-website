@@ -15,7 +15,7 @@
   </div><!-- full-width-->
   <div class="container">
     <div class="spacing"></div>
-    <div class="row border type2" id="about">
+    <div class="row side-margin border type2" id="about">
       <h1>About Us</h1>
       <br />
       <div id="mission-in-about">
@@ -31,7 +31,7 @@
     <div class="spacing"></div>
     <?php include "_/php/4culture2.php"; ?>
     <div class="spacing"></div>
-    <div class="row">
+    <div class="row side-margin">
       <div class="col-xs-12 border members hidden-small2">
         <h1>Rachel Price</h1>
         <img src="img/bios/rachel_cropped.jpg" alt="Rachel Price" class="right-big img-responsive">
@@ -43,7 +43,7 @@
       </div>
     </div><!-- end row -->
     <div class="spacing"></div>
-    <div class="row">
+    <div class="row side-margin">
       <div class="col-xs-12 border members hidden-small2">
         <h1>Hannah Palin</h1>
         <img src="img/bios/Hannah.jpg" alt="Hannah Palin" class="right-big img-responsive">
@@ -55,7 +55,7 @@
       </div>
     </div><!-- end row -->
     <div class="spacing"></div>
-    <div class="row">
+    <div class="row side-margin">
       <div class="col-xs-12 border members hidden-small2">
         <h1>Carol Shenk</h1>
         <img src="img/bios/carol_cropped.jpg" alt="Carol Shenk" class="right-big img-responsive">
@@ -67,7 +67,7 @@
       </div>
     </div><!-- end row -->
     <div class="spacing"></div>
-    <div class="row">
+    <div class="row side-margin">
       <div class="col-xs-12 border members hidden-small2">
         <h1>Anne Frantilla</h1>
         <img src="img/bios/frantilla_cropped3.jpg" alt="Anne Frantilla" class="right-big img-responsive">
@@ -79,7 +79,7 @@
       </div>
     </div><!-- end row -->
     <div class="spacing"></div>
-    <div class="row">
+    <div class="row side-margin">
       <div class="col-xs-12 border members hidden-small2">
         <h1>Anna Briggs</h1>
         <img src="img/bios/anna_briggs_cropped.jpg" alt="Anna Briggs" class="right-big img-responsive">
@@ -91,7 +91,7 @@
       </div>
     </div><!-- end row -->
     <div class="spacing"></div>
-    <div class="row">
+    <div class="row side-margin">
       <div class="col-xs-12 border members hidden-small2">
         <h1>Libby Hopfauf</h1>
         <img src="img/bios/HopfaufLibbyInfoPicCropped.jpg" alt="Libby Hopfauf" class="right-big img-responsive">

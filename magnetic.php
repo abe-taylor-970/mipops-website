@@ -15,7 +15,7 @@
   </div><!-- full-width-->
   <div class="container"> 
     <div class="spacing"></div>
-    <div class="row type2 border" id="magnetic">
+    <div class="row side-margin type2 border" id="magnetic">
       <h1>The Magnetic Media Crisis</h1>
       <br />
       <a href="img/magnetic_media_stack.jpg" class="float-right hidden-small3"><img src="img/magnetic_media_stack_scaled.jpg" alt="Magnetic Media" class="img-responsive" /></a>

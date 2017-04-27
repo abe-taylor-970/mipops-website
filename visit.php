@@ -15,7 +15,7 @@
   </div><!-- full-width-->
   <section class="container">
     <div class="spacing"></div>
-    <div class="row type2 border" id="visit">
+    <div class="row side-margin type2 border" id="visit">
       <h1>What to expect when you visit us</h1>
       <br />
       <p>See <a href="planning.php"><u>Planning Your Project</u></a> for help defining your needs and goals, what to bring to MIPoPS during your first meeting, and information about the digitizing process.</p>

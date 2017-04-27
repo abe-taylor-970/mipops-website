@@ -174,7 +174,7 @@ a:active {
       margin-top: 10px;
     }
     #video {
-      height: 405px;
+      height: 393.75px;
     }
 }
 /* additional when less than large size */
@@ -198,6 +198,11 @@ a:active {
 /* alignment */
 body {
   padding-top: 70px; 
+}
+
+.side-margin {
+  margin-left: 0px;
+  margin-right: 0px;
 }
 
 #video, #top_carousel, #carousel-main-page {

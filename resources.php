@@ -15,7 +15,7 @@
   </div><!-- full-width-->
   <div class="container">
     <div class="spacing"></div>
-    <div class="row type2 border" id="resources">
+    <div class="row side-margin type2 border" id="resources">
       <h1>Resources</h1>
       <br />
       <p>Current best practices call for creating a 10-bit uncompressed file from an original analog signal.</p>

@@ -15,7 +15,7 @@
   </div><!-- full-width-->
   <section class="container">
     <div class="spacing"></div>
-    <div class="row border" id="contact">
+    <div class="row side-margin border" id="contact">
       <div class="col-lg-6 col-xs-12" id="address">
         <br />
         <h3>You can contact MIPoPS by e-mailing <u><a href="mailto:info@mipops.org">info@mipops.org</a></u></h3>
