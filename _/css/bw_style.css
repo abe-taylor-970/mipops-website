@@ -251,8 +251,12 @@ body {
 .center {
   text-align: center;
 }
-#top_logo, #top_name {
+#top_name {
   margin-top: 40px;
+}
+#top_logo {
+  margin-top: 50px;
+  margin-bottom: 20px;
 }
 .small-height {
   height: 100px;

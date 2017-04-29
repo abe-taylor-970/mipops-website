@@ -1,3 +1,4 @@
+<!-- robots content="none" -->
 <div class="content row">
   <div class="col-lg-12">
     <header class="clearfix">
@@ -11,7 +12,7 @@
               <span class="icon-bar"></span>
             </button>
           </div>
-          <div class="collapse navbar-collapse" id="collapse">
+          <div class="collapse navbar-collapse navbar-right" id="collapse">
             <ul class="nav navbar-nav pull-right">
               <li><a href="http://www.mipops.org/index.php">Home</a></li>
               <li><a href="http://www.mipops.org/contact.php">Contact</a></li>
@@ -54,3 +55,4 @@
     </header>
   </div><!-- column -->
 </div><!--row  -->
+<!-- /robots -->
