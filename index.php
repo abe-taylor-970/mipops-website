@@ -1,8 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <?php include "_/php/meta.php"; ?>
   <title>Moving Image Preservation of Puget Sound</title>
   <?php include "_/php/bootstrap.php"; ?>
   <link rel="stylesheet" type="text/css" href="_/css/mainpage.css" />

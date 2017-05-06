@@ -1,10 +1,9 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <meta charset="utf-8">
-    <title>The Magnetic Media Crisis - MIPoPS</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <?php include "_/php/bootstrap.php"; ?>
+  <?php include "_/php/meta.php"; ?>
+  <title>The Magnetic Media Crisis - MIPoPS</title>
+  <?php include "_/php/bootstrap.php"; ?>
 </head>
 <body>
   <div class="full-width"> 

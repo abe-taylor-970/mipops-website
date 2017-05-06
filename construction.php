@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html>
   <head>
+    <?php include "_/php/meta.php"; ?>
     <title>Construction - MIPoPS</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <?php include "_/php/bootstrap.php"; ?>
   </head>
   <body>
