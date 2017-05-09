@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html>
+
 <head>
   <?php include "_/php/meta.php"; ?>
   <title>Moving Image Preservation of Puget Sound</title>
   <?php include "_/php/bootstrap.php"; ?>
   <link rel="stylesheet" type="text/css" href="_/css/mainpage.css" />
 </head>
-
 
 <body>
   <div id="outside-container">
@@ -39,4 +39,5 @@
   </div><!-- outside container -->
   <?php include "_/php/javascript.php"; ?>
 </body>
+
 </html>

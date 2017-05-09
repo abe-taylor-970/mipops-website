@@ -20,11 +20,11 @@ a:link {
 a:visited {
   color: #4F4F4F; /* dark gray */
 }
-a:hover, a:hover h2 {
-  color: white;
+a:hover, a:hover h2 { 
+  color: #737373; /* light gray */
 }
 .type1 a:hover {
-  color: white;
+  color: #373737; /* dark gray */
 }
 a:active {
   color: black;

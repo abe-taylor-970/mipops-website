@@ -3,12 +3,8 @@
 	<dt><b>%Rank%. <a href="%Redirector%%URL%">%Title%</a></b> %admin_options%</dt>
 
 	<dd class="sr">
-
-
 		<b>URL:</b> %url% - %Size% - %Day% %Month% %Year%
-
 		%context_line%
-
 	</dd>
 
 </dl>
