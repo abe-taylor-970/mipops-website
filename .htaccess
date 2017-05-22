@@ -1,0 +1,12 @@
+Redirect /about http://www.mipops.org/about.php
+Redirect /access http://www.mipops.org/access.php
+Redirect /contact http://www.mipops.org/contact.php
+Redirect /faqs http://www.mipops.org/faqs.php
+Redirect /magnetic http://www.mipops.org/magnetic.php
+Redirect /organizations http://www.mipops.org/organizations.php
+Redirect /planning http://www.mipops.org/planning.php
+Redirect /privacy http://www.mipops.org/privacy.php
+Redirect /resources http://www.mipops.org/resources.php
+Redirect /terms http://www.mipops.org/terms.php
+Redirect /visit http://www.mipops.org/visit.php
+Redirect /membership http://www.mipops.org/membership.php
