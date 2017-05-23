@@ -94,23 +94,17 @@ a:active {
 @media (min-width: 768px){
 }
 
+/* when less than medium size */
+@media (max-width: 767px){
+  .spacing-when-large {
+    height: 15px;
+  }
+}
 /* when large size or greater */
 @media (min-width: 992px) {
   .container {
     padding-left: 60px;
     padding-right: 60px;
-  }
-  #calpreservation {
-    margin-top: 20px;
-  }
-  #uluulu {
-    margin-top: 50px;
-  }
-  #danceheritage {
-    margin-top: 40px;
-  }
-  #xfr-stn {
-    margin-top: 40px;
   }
   #four_culture {
     display: inline-block;
@@ -119,12 +113,6 @@ a:active {
   #similar_organizations_text {
     margin-top: 30px;
   }
-  .org-image {
-    height: 100px;
-  } 
-  .org-image2 {
-    height: 150px;
-  } 
   .float-right {
     padding-left: 10px;
   }
@@ -133,7 +121,7 @@ a:active {
     float: right;
     padding-right: 20px; 
   }
-  #boxes_content {
+  .outside-boxes { 
     display: -webkit-box;      /* OLD - iOS 6-, Safari 3.1-6 */
     display: -moz-box;         /* OLD - Firefox 19- (buggy but mostly works) */
     display: -ms-flexbox;      /* TWEENER - IE 10 */
@@ -170,12 +158,15 @@ a:active {
 }
 /* when extra-large size or bigger */
 @media (min-width: 1200px) {
-    #search {
-      margin-top: 10px;
-    }
-    #video {
-      height: 393.75px;
-    }
+  #search {
+    margin-top: 10px;
+  }
+  #video {
+    height: 393.75px;
+  }
+  .spacing-when-large {
+    height:30px;
+  }
 }
 /* additional when less than large size */
 @media (max-width: 991px) {
@@ -193,6 +184,9 @@ a:active {
 @media (max-width: 500px){
   #video {
     height: 400px; 
+  }
+  .spacing-when-large {
+    height: 30px;
   }
 }
 /* alignment */
@@ -227,6 +221,12 @@ body {
   padding-top: 20px;
   padding-bottom: 20px;
 }
+  .org-image {
+    height: 100px;
+  } 
+  .org-image2 {
+    height: 150px;
+  } 
 .big_spacing {
   height:120px;
 }
