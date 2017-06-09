@@ -11,31 +11,17 @@ less than 544 px (xs)
 TO DO
 -----
 MAIN:
-  *) Spacing on main page between testimonials and video.
-  *) top_bar picture too tall on tablet
-  *) Change hover color of terms and conditions and privacy policy for link
-  *) magnetic.php on small screen the "manufacturers" text will not fit on side of screen.
-  *) change line_listing.txt so displays some context or content from each page found
+  **) change whole site so that it isn't using .php everywhere. Probably by using server-side includes. 
+  ?) top_bar picture too tall on tablet
+  *) magnetic.php and possibly others, make sure there is a little space between the page and the picture. 
   *) Check analytics for web page and see what browsers people are using. Also, look at all the stats.
-  *) Change all pages so they have grey background and light grey boxes, just like main page. Will have to change logo to be white transparent, or black on white, and change main text to be white
-  *) fix width whole site to match, as far as side indentation, testimonials on main page so it all lines up.
-  *) fix #similar1 #similar2 javascript resizing in organizations.php to use flexbox
   *) Make members area look nice
   *) will be changing members and membership area to be new name.
-  *) Add re-directs for all .php and send instead to directory with index.php. Also, add custom .css file in each directory, and fix bw-style.css to be broad styles
-
-DETAILS:
+  *) Change menu so that it displays before clicking? 
+  *) look at slideshow and see if needs to be adjusted. maybe only one picture of the inside of that device. Note hard to do unless I get more pictures from Rachel. 
   *) For below two, see jumbotron example on getbootstrap.com
     1) Add javascript and css file to make site work on IE10 Windows 8.
     2) Add this line :   <meta http-equiv="X-UA-Compatible" content="IE=edge"> at top of file near head
-  *) https: change to http: for internet archives link
-  *) check if similar organizations looks right. There is some unused code in mipops.js about that.
-  *) look at slideshow and see if needs to be adjusted. maybe one less pic of libby in main slideshow
-  *) check out it would look on tablets
-  *) fix members.php to be evenly spaced on mobile
-  *) fix contact.php so that map is responsive to mobile
-  *)now that added responsive_iframe, does it work for video in video_blog.php?
-  *) Change menu so that it displays before clicking? 
 
 NOTES
 -----

@@ -47,11 +47,11 @@ $(document).ready(function() {
     )
     document.querySelector('head').appendChild(msViewportStyle)
   }
-}
+})
 
 window.onresize = fixIframe(); 
 
-function fixIframe {
+function fixIframe() {
   //Set window width
     var windowWidth = $(window).width();
   // if extra small screen
