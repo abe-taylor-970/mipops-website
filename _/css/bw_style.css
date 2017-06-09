@@ -153,7 +153,7 @@ a:active {
     margin-bottom: 10px;
   }
   #video {
-    height: 660px; 
+    height: 690px; 
   }
 }
 /* when extra-large size or bigger */
@@ -161,8 +161,8 @@ a:active {
   #search {
     margin-top: 10px;
   }
-  #video {
-    height: 393.75px;
+  #video-container {
+    height: 200px;
   }
   .spacing-when-large {
     height:30px;
@@ -171,13 +171,13 @@ a:active {
 /* additional when less than large size */
 @media (max-width: 991px) {
   #video {
-    height: 562.5px; 
+    height: 620px; 
   }
 }
 /* additional when less than small size */
-@media (max-width: 650px){
+@media (max-width: 636px){
   #video {
-    height: 470px; 
+    height: 500px; 
   }
 }
 /* additional when less than small size */
@@ -193,15 +193,18 @@ a:active {
 body {
   padding-top: 70px; 
 }
-
 .side-margin {
   margin-left: 0px;
   margin-right: 0px;
 }
-
+.side-padding {
+  padding-left: 0px;
+  padding-right: 0px;
+}
 #video, #top_carousel, #carousel-main-page {
   padding: 0px;
 }
+
 #donate-boxes {
   margin-top: 10px;
 }
@@ -400,4 +403,40 @@ footer {
 @-o-viewport        { width: device-width; }
 @viewport           { width: device-width; }
 
+/* To make iframes responsive */
+.video-container {
+    position: relative;
+    padding-bottom: 73.39%;
+    height: 0;
+    overflow: hidden;
+}
 
+.video-container iframe {
+    position: absolute;
+    top:0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+@media (min-width: 1200px) {
+  .video-container iframe {
+      position: relative;
+      width: 85%;
+      display: block;
+      margin: auto;
+  }
+ 
+  #text-for-iframe {
+    width: 85%;
+    display: block;
+    margin: auto;
+  }
+
+  .video-container {
+      position: relative;
+      padding-bottom: 0%;
+      height: 282.75px;
+      overflow: hidden;
+  }
+}
