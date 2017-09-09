@@ -1,4 +1,4 @@
-$(document).ready(function() {
+$ (document).ready(function() {
   fixIframe();
   //Deal with IE versions less than 11
   var IE = (function () {
