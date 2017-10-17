@@ -186,6 +186,12 @@ a:active {
     height: 400px; 
   }
 }
+/* additional when less than small size */
+@media (max-width: 400px){
+  #video {
+    height: 350px; 
+  }
+}
 /* alignment */
 body {
   padding-top: 70px; 
@@ -370,6 +376,7 @@ footer {
   border: 1px solid #D7D7D7;
   border-top: 0;
 }
+
 .carousel-indicators li {
   visibility: hidden;
 }
@@ -397,9 +404,7 @@ footer {
 @-o-viewport        { width: device-width; }
 @viewport           { width: device-width; }
 
-/* This is at the end to overwrite above */
-@media (min-width: 1200px) {
-  #text-for-picture {
-    padding-bottom: 14px;
-  }
+@media (min-width: 600px) and (max-width: 1199px) {
+#spacing-when-medium {
+  height: 20px;
 }

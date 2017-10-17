@@ -11,6 +11,7 @@ less than 544 px (xs)
 TO DO
 -----
 MAIN:
+ ***) links not clear on planning.php Can't tell they are links.
   **) change whole site so that it isn't using .php everywhere. Probably by using server-side includes. 
   ?) top_bar picture too tall on tablet
   *) magnetic.php and possibly others, make sure there is a little space between the page and the picture. 
