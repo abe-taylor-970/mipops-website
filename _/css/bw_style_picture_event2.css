@@ -96,9 +96,6 @@ a:active {
 
 /* when less than medium size */
 @media (max-width: 767px){
-  .spacing-when-large {
-    height: 15px;
-  }
 }
 /* when large size or greater */
 @media (min-width: 992px) {
@@ -155,6 +152,9 @@ a:active {
   #video {
     height: 660px; 
   }
+  .spacing-when-large {
+    height:0px;
+  }
 }
 /* when extra-large size or bigger */
 @media (min-width: 1200px) {
@@ -185,8 +185,11 @@ a:active {
   #video {
     height: 400px; 
   }
-  .spacing-when-large {
-    height: 30px;
+}
+/* additional when less than small size */
+@media (max-width: 400px){
+  #video {
+    height: 350px; 
   }
 }
 /* alignment */
@@ -373,6 +376,7 @@ footer {
   border: 1px solid #D7D7D7;
   border-top: 0;
 }
+
 .carousel-indicators li {
   visibility: hidden;
 }
@@ -400,4 +404,7 @@ footer {
 @-o-viewport        { width: device-width; }
 @viewport           { width: device-width; }
 
-
+@media (min-width: 600px) and (max-width: 1199px) {
+#spacing-when-medium {
+  height: 20px;
+}
