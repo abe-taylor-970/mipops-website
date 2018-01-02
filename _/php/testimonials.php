@@ -14,7 +14,7 @@
         </div>
       </div>
     </div><!-- row -->
-    <div class="spacing"></div>
+    <div class="special-spacing"></div>
     <div class="row">
         <div id="outside-test3" class="col-md-12 hidden-small4">
         <div id="test3" class="padding grey testimonial border">

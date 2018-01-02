@@ -30,7 +30,7 @@
       <?php include "_/php/boxes_content.php"; ?> 
       <div class="spacing"></div>
       <?php include "_/php/video_carousel.php"; ?>
-      <div class="spacing-when-large"></div>
+      <div class="medium-spacing"></div>
       <?php include "_/php/testimonials.php"; ?>
       <div class="spacing"></div>
       <?php include "_/php/4culture.php"; ?>
