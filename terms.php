@@ -16,7 +16,7 @@
     <div class="spacing"></div>
     <div class="row type2 border">
       <h2>The use of the website MIPoPS is subject to the following terms of use:</h2>
-      <p>In the following, we/our refers to the owner of MIPoPS, Rachel Price. You/your refers to the viewer of the website</p>
+      <p>In the following, we/our refers to the owner of MIPoPS, Rachel Price. You/your refers to the viewer of the website.</p>
       <ul>
         <li>The content of the pages of this website is for your general information and use only. It is subject to change without notice.</li>
         <li>Neither we nor any third parties provide any warranty or guarantee as to the accuracy, timeliness, performance, completeness or suitability of the information and materials found or offered on this website for any particular purpose. You acknowledge that such information and materials may contain inaccuracies or errors and we expressly exclude liability for any such inaccuracies or errors to the fullest extent permitted by law.</li>
