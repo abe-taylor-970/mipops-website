@@ -89,7 +89,7 @@ a:active {
     margin-right: auto;
     display: block;
   }  
-  .special-spacing {
+  .special-spacing2 {
     height:20px;
   }
 }
@@ -152,14 +152,30 @@ a:active {
   #search {
     margin-bottom: 10px;
   }
+  .special-spacing {
+    height:20px;
+  }
+  .special-spacing3 {
+    height:20px;
+  }
 }
 /* when extra-large size or bigger */
 @media (min-width: 1200px) {
   #search {
     margin-top: 10px;
   }
-  .special-spacing {
-    height:33px;
+  .special-spacing2, .special-spacing3 {
+    height:22.8px;
+  }
+/* following three lines should I use? Looks different on firefox and chrome, probably better to use flexbox if possible */
+  #test4, #test5 {
+    height: 637px; 
+  }
+  #test5 {
+    line-height: 1.7; 
+  }
+  #test1, #test2, #test3 {
+    line-height: 150%;
   }
 }
 /* additional when less than large size */
@@ -294,6 +310,7 @@ body {
   padding-top: 20px;
 }
 
+
 .carousel-inner > .item > img,
 .carousel-inner > .item > a > img {
   display: block;
@@ -400,5 +417,3 @@ footer {
 @-ms-viewport       { width: device-width; }
 @-o-viewport        { width: device-width; }
 @viewport           { width: device-width; }
-
-
