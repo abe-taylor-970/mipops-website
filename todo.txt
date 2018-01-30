@@ -11,7 +11,7 @@ less than 544 px (xs)
 TO DO
 -----
 MAIN:
- ***) fix spacing issues on main page for all size windows, so that everything is consistent and professional 
+ ******) fix spacing issues on testimonials section. Use Flexbox instead of BootStrap for alignment.
   **) change whole site so that it isn't using .php everywhere. Probably by using server-side includes. 
   ?) top_bar picture too tall on tablet
   *) magnetic.php and possibly others, make sure there is a little space between the page and the picture. 
